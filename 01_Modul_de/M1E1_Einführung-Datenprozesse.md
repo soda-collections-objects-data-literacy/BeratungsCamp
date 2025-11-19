@@ -32,25 +32,31 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 
 ## Ablauf des Moduls
 
-*ergänzen*
+**Modul 1: 90 Min.**
 
 
+| Einheit | Inhalt | Zeit |
+|--------|--------|------|
+| 1 | Einführung in wissenschaftliche Datenprozesse | 30 Min. |
+| 2 | KuR Grundlagen | 30 Min. |
+| 3 | Datenarbeit | 30 Min. |
+
+---
 
 ## Lernziele
 
 Lernende können... 
 
-* 1\.1 Forschungsdaten 
-* Sammlungsspezifiscvhe Forschungsdaten und gute Beispiele
-* Relevanz von FDM
-Problemfelder in KuR
-
-* Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
-Rollen und Zuständigkeiten im FDM
-* 1\.2 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
-Maßnahmen
-* 1\.3 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
-Eigene Rollen reflektieren
+1\.1 Begriff „Forschungsdaten“ erläutern. (LZM-ID: 01\_001\_0007) 
+1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele
+1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0001)
+1\.4 Problemfelder in KuR
+1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
+1\.6 Rollen und Zuständigkeiten im FDM
+1\.7 Phasen hat Datenlebenszyklus
+1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
+1\.9 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
+1\.10 Eigene Rollen reflektieren
 
 ---
 
@@ -59,7 +65,7 @@ Eigene Rollen reflektieren
 *ergänzen*
 
 
-## Was sind Forschungsdaten?
+## 1.1 Was sind Forschungsdaten?
 
 „Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse.“ [1]
 
@@ -67,7 +73,7 @@ Nach Definition von forschungsdaten.info sind also alle Daten Forschungsdaten, d
 
 Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden“ – all das zählt zu Forschungsdaten. [3]
 
-### Beispiele für sammlungsspezifische Forschungsdaten
+## 1.2 Beispiele für sammlungsspezifische Forschungsdaten
 
 Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten.
 
@@ -84,7 +90,7 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 !?[Der Wal zieht um](https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=63)
 
 
-## Warum ist FDM unverzichtbar?
+## 1.3 Warum ist FDM unverzichtbar?
 
 **Generische fachübergreifend Problemfelder**
 
@@ -102,7 +108,7 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 * Mangelnde **Versionierung** / Änderungsverfolgung
 * ...
 
-**Problemfelder in der KuR**
+## 1.4 Problemfelder in der KuR
 
 * Unzureichende **Kurationsdokumentation**
 * Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten**
@@ -111,7 +117,7 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 * ...
 
 
-## Wer trägt Verantwortung im FDM?
+## 1.5 Wer trägt Verantwortung im FDM?
 
 Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:innen beteiligt sind. 
 
@@ -126,7 +132,7 @@ Verantwortung bedeutet hier nicht „eine Person macht alles“, sondern Rollen 
 
 **Wichtig: Verantwortung ist geteilte Verantwortung, und sie verändert sich entlang des Datenlebenszyklus. Jede Rolle und Zuständigkeit hat ihren Platz im Datenlebenszyklus. **
 
-### Beispiel-Rollen und -Zuständigkeiten
+### 1.6 Beispiel-Rollen und -Zuständigkeiten im FDM
 
 >**FDM-Mini-Speed-Dating**
 >
@@ -138,7 +144,7 @@ Verantwortung bedeutet hier nicht „eine Person macht alles“, sondern Rollen 
 >
 >Schreibt eure Rolle auf eine Moderationskarte und hängt diese an das Flipchart.
 
-## Welche Phasen hat Datenlebenszyklus von Sammlungs- und Objektdaten in SODa?
+## 1.7 Welche Phasen hat Datenlebenszyklus von Sammlungs- und Objektdaten in SODa?
 
 Die Phasen des SODa-Datenlebenszyklus bilden einen Rahmen für konkrete Umsetzungen.
 
@@ -150,7 +156,7 @@ Die Phasen des SODa-Datenlebenszyklus bilden einen Rahmen für konkrete Umsetzun
 * Langzeitverfügbarkeit (nach FAIR-Prinzipien)
 
 
-### Beispiel-Maßnahmen verstehen
+### 1.8 Beispiel-Maßnahmen verstehen
 
 >**Card-Sorting**
 >
@@ -194,7 +200,7 @@ Versionierung und Änderungsdokumentation einführen
 
 
 
-## Welche Bedarfe haben wir?
+## 1.9 Welche Bedarfe haben wir?
 
 Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus konkreten Situationen:
 
@@ -203,7 +209,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 * Nachnutzbarkeit sichern: Datenformate, Standards, Metadaten.
 * Nachhaltigkeit gewährleisten: Langzeitarchivierung, Versionierung, Migration.
 
-### Eigene Rolle und Kompetenzen reflektieren
+### 1.10 Eigene Rolle und Kompetenzen reflektieren
 
 >**Think-Pair-Share**
 >
@@ -219,6 +225,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 ## Quellen
 
 >siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
+
 
 
 
