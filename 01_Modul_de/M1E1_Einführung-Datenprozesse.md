@@ -48,14 +48,23 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 Lernende können... 
 
 1\.1 Begriff „Forschungsdaten“ erläutern. (LZM-ID: 01\_001\_0007) 
+
 1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID 01\_xxxx\_soda0001)
+
 1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0001)
+
 1\.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen. (LZ-ID 01\_002\_0022a)
+
 1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
+
 1\.6 eigene Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0034a)
+
 1\.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZM-ID: 01\_005\_0079a)
+
 1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
+
 1\.9 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
+
 1\.10 eigene Rolle im Forschungsdatenmanagement (FDM) diskutieren. (LZM-ID: 01\_003\_0037)
 
 ---
@@ -109,11 +118,13 @@ Forschungsdatenmanagement (FDM)...
 
 ---
 
-## 1.4 Welchen allgemeinen und KuR-spezifischen Problemstellungen im Forschungsdatenmanagement (FDM) begegnen universitäre Sammlungen?
+## 1.4 Welchen allgemeinen und KuR-spezifischen Problemstellungen begegnen universitäre Sammlungen?
 
-Universitäre Sammlungen sind heterogene Forschungsbestände, in denen Daten zu Objekten, Kontexten, Provenienzen, Restaurierungsmaßnahmen und Nutzungsgeschichte zusammenkommen. Entsprechend vielfältig sind die Problemfelder im Forschungsdatenmanagement.
+Universitäre Sammlungen sind heterogene Forschungsbestände, in denen Daten zu Objekten, Kontexten, Provenienzen, Restaurierungsmaßnahmen und Nutzungsgeschichte zusammenkommen. 
 
-**Generische fachübergreifend Problemfelder**
+Entsprechend vielfältig sind die Problemfelder im Forschungsdatenmanagement.
+
+### Generische fachübergreifend Problemfelder
 
 * Unklare oder fehlende **Provenienzdaten**
 * Unvollständige **Dokumentation**
@@ -130,7 +141,7 @@ Universitäre Sammlungen sind heterogene Forschungsbestände, in denen Daten zu 
 
 Diese generischen Probleme treten in vielen Forschungsdisziplinen auf, wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Erhaltung materieller Kulturgüter und ihrer digitalen Repräsentationen essenziell ist.
 
-**Problemfelder in der Konservierung und Restaurierung (KuR)**
+### Problemfelder in der Konservierung und Restaurierung (KuR)
 
 * Unzureichende oder nicht standardisierte **Kurations- und Restaurierungsdokumentation**
 * Unvollständige Erfassung von **Behandlungen, Reinigungsschritten, Eingriffen**
@@ -140,7 +151,9 @@ Diese generischen Probleme treten in vielen Forschungsdisziplinen auf, wirken si
 * Unterschiede im **Fachvokabular** zwischen Restaurierung, Sammlungsverwaltung und Forschung
 * Mangelnde **Verknüpfung** zwischen KuR-Dokumentation und Sammlungsdaten
 
-siehe auch Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung [6]
+#### Erhebung: 
+
+**siehe Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung [6]
 
 "Am häufigsten genannt wurden dabei folgende Herausforderungen und Problematiken:
 
@@ -274,5 +287,6 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [4] Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen (2018), Universität Göttingen, https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=64
 
 [5] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
+
 
 [6] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17475354
