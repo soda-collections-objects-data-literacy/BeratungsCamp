@@ -48,30 +48,33 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 Lernende können... 
 
 1\.1 Begriff „Forschungsdaten“ erläutern. (LZM-ID: 01\_001\_0007) 
-1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele
+1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID 01\_xxxx\_soda0001)
 1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0001)
-1\.4 Problemfelder in KuR
+1\.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen. (LZ-ID 01\_002\_0022a)
 1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
-1\.6 Rollen und Zuständigkeiten im FDM
-1\.7 Phasen hat Datenlebenszyklus
+1\.6 Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0034a)
+1\.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZM-ID: 01\_005\_0079a)
 1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
 1\.9 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
-1\.10 Eigene Rollen reflektieren
+1\.10 eigene Rolle im Forschungsdatenmanagement (FDM) diskutieren. (LZM-ID: 01\_003\_0037)
 
 ---
 
 ## Voraussetzung
 
-*ergänzen*
+*keine*
 
+---
 
 ## 1.1 Was sind Forschungsdaten?
 
-„Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse.“ [1]
+„Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse“ [1].
 
-Nach Definition von forschungsdaten.info sind also alle Daten Forschungsdaten, die im Rahmen einer wissenschaftlichen Tätigkeit entstehen. Sie können sowohl Ausgangspunkt als auch Ergebnis eines Forschungsprozesses sein. [2]
+Nach Definition von forschungsdaten.info sind also alle Daten Forschungsdaten, die im Rahmen einer wissenschaftlichen Tätigkeit entstehen. Sie können sowohl Ausgangspunkt als auch Ergebnis eines Forschungsprozesses sein [2].
 
-Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden“ – all das zählt zu Forschungsdaten. [3]
+Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden“ – all das zählt zu Forschungsdaten [3].
+
+Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten.
 
 ## 1.2 Beispiele für sammlungsspezifische Forschungsdaten
 
@@ -85,36 +88,60 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 >
 >Pinnt diese Moderationskarten an das Flipchart.
 
-### Beispiel Forum Wissen
+### Beispiel Forum Wissen 
+
+ Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen [4]
 
 !?[Der Wal zieht um](https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=63)
 
+## 1.3 Relevanz von 
 
-## 1.3 Warum ist FDM unverzichtbar?
+*ergänzen* ?
+
+
+## 1.4 Welchen allgemeinen und KuR-spezifischen Problemstellungen im Forschungsdatenmanagement (FDM) begegnen universitäre Sammlungen?
+
+Universitäre Sammlungen sind heterogene Forschungsbestände, in denen Daten zu Objekten, Kontexten, Provenienzen, Restaurierungsmaßnahmen und Nutzungsgeschichte zusammenkommen. Entsprechend vielfältig sind die Problemfelder im Forschungsdatenmanagement.
 
 **Generische fachübergreifend Problemfelder**
 
 * Unklare oder fehlende **Provenienzdaten**
-* Fragmentarische **Dokumentation**
-* **Datenverlust** / Aktenvernichtung
-* Inkonsistente **Metadaten** / uneinheitliche Terminologie
-* Fehlende **Verknüpfungen** zwischen Daten/Objekten
-* **Datenschutz** & Umgang mit sensiblen Daten
-* Unstandardisierte **Digitalisierung**
-* Fehlende **Nachnutzungsperspektive**
-* Verlust von **Kontextinformationen**
-* Inkonsistente **Formate & Dateiformate**
-* **Probleme bei Langzeitarchivierung** & Migration
-* Mangelnde **Versionierung** / Änderungsverfolgung
-* ...
+* Unvollständige **Dokumentation**
+* **Datenverlust** durch Vernichtung, Verfall oder Fehlverhalten
+* Inkonsistente **Metadaten** und uneinheitliche Terminologie
+* Fehlende **Verknüpfungen** zwischen Objekten, Datensätzen, Medien und Kontexten
+* **Datenschutz** und Umgang mit sensiblen Daten
+* Unstandardisierte und uneinheitliche **Digitalisierung**
+* Fehlende **Nachnutzungsperspektive** (Rechte und Formate)
+* Verlust oder mangelnde Erfassung von **Kontextinformationen**
+* **Inkonsistente Formate** und proprietäre Dateiformate**
+* **Probleme bei Langzeitarchivierung**, Formatmigration und Speicherstrategien
+* Fehlende oder mangelhafte **Versionierung** von Datensätzen und Dokumentationen
 
-## 1.4 Problemfelder in der KuR
+Diese generischen Probleme treten in vielen Forschungsdisziplinen auf, wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Erhaltung materieller Kulturgüter und ihrer digitalen Repräsentationen essenziell ist.
 
-* Unzureichende **Kurationsdokumentation**
-* Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten**
-* Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** während Auslagerung (z. B. Luftfeuchte, Temperaturschwankungen, Vibrationen)
-* Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten)
-* ...
+**Problemfelder in der Konservierung und Restaurierung (KuR)**
+
+* Unzureichende oder nicht standardisierte **Kurations- und Restaurierungsdokumentation**
+* Unvollständige Erfassung von **Behandlungen, Reinigungsschritten, Eingriffen**
+* Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** (z. B. Luftfeuchte, Temperaturschwankungen, Licht, Vibrationen)
+* Fehlende Dokumentation der **Montagestruktur oder Konstruktion** (z. B. bei Skeletten, Objekten)
+* Fehlende digital-born-Dokumentation bei **konservatorischen Entscheidungen** (z.B. Fotoserien,3D-Scans, Materialmessdaten,...) 
+* Unterschiede im **Fachvokabular** zwischen Restaurierung, Sammlungsverwaltung und Forschung
+* Mangelnde **Verknüpfung** zwischen KuR-Dokumentation und Sammlungsdaten
+
+siehe auch [5]
+
+Am häufigsten genannt wurden dabei folgende Herausforderungen und Problematiken:
+- Langfristige Speicherung und Archivierung (44,6 %; n = 107)
+17
+- Fehlende Zeitressourcen (44,2 %; n = 106)
+- Datenorganisation und -strukturierung (41,3 %; n = 99)
+- Mangel an Schulungen oder Unterstützung im Datenmanagement (30,4 %; n = 73)
+- Zugang und Teilen von Daten mit anderen Forschenden (28,8 %; n = 69)
+- Sicherstellung der Datenqualität (27,5 %; n = 66)
+
+" In weiten Teilen der Fachpraxis wird FDM nicht als integraler Bestandteil restauratorischer Arbeit verstanden, sondern als zusätzliche Aufgabe, die in der Planung häufig nicht ausreichend berücksichtigt wird."
 
 
 ## 1.5 Wer trägt Verantwortung im FDM?
@@ -222,12 +249,25 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 >Share (optional): 1–2 Stimmen im Plenum für zentrale Beobachtungen
 
 
-## Quellen
+## Quellenangaben (es wäre zu klären wie wir damit umgehen wenn wir Inhalte z.B. aus dem Basiskurs 1zu1 nachnutzen)
 
->siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
+>siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025) 
+    in 01E_M1_E11(Begriff Forschungsdaten)
+    
+
+[1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824
+
+[2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
+
+[3] Deutsche Forschungsgemeinschaft (DFG). (2015). Leitlinien zum Umgang mit Forschungsdaten. Abgerufen am 16. Juli 2025, von https://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf
+
+[4] Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen (2018), Universität Göttingen, https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=64
+
+[5] https://zenodo.org/records/17475354
+
+<<<<<<< HEAD
 
 
+=======
 
-
-
-
+>>>>>>> 8805d66044e05551b574f105138e19d55f149559
