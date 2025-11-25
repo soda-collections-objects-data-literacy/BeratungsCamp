@@ -52,7 +52,7 @@ Lernende können...
 1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0001)
 1\.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen. (LZ-ID 01\_002\_0022a)
 1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
-1\.6 Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0034a)
+1\.6 eigene Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0034a)
 1\.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZM-ID: 01\_005\_0079a)
 1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
 1\.9 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
@@ -66,7 +66,7 @@ Lernende können...
 
 ---
 
-## 1.1 Was sind Forschungsdaten?
+## 1.1 Was sind Forschungsdaten? (SODa Basiskurs)
 
 „Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse“ [1].
 
@@ -80,7 +80,7 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 
 Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten.
 
->**Die Foschungsdaten-Schatzkiste**
+>__Übung: Die Foschungsdaten-Schatzkiste__
 >
 >Benennt 3 Beispiele für Forschungsdaten (analog, digital, Metadatum) aus dem eigenen Arbeitskontext.
 >
@@ -94,10 +94,20 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 
 !?[Der Wal zieht um](https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=63)
 
-## 1.3 Relevanz von 
+---
 
-*ergänzen* ?
+## 1.3 Relevanz von Forschungsdatenmanagement (SODa Basiskurs)
 
+Forschungsdatenmanagement (FDM)...
+
+* trägt zur Qualitätssicherung und Nachvollziehbarkeit von Forschung bei
+* schützt vor Datenverlust und unklaren Eigentumsverhältnissen
+* erfüllt Anforderungen von Projektförderern
+* schafft Verlässlichkeit bei Projektwechseln und Personalfluktuation [5]
+* sichert den Zugang zu Sammlungs- und Forschungsdaten und damit ihre Nachnutzung
+* berücksichtigt ethische Aspekte z.B. in Bezug auf Objekte, die aus Unrechtskontexten stammen
+
+---
 
 ## 1.4 Welchen allgemeinen und KuR-spezifischen Problemstellungen im Forschungsdatenmanagement (FDM) begegnen universitäre Sammlungen?
 
@@ -130,46 +140,61 @@ Diese generischen Probleme treten in vielen Forschungsdisziplinen auf, wirken si
 * Unterschiede im **Fachvokabular** zwischen Restaurierung, Sammlungsverwaltung und Forschung
 * Mangelnde **Verknüpfung** zwischen KuR-Dokumentation und Sammlungsdaten
 
-siehe auch [5]
+siehe auch Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung [6]
 
-Am häufigsten genannt wurden dabei folgende Herausforderungen und Problematiken:
-- Langfristige Speicherung und Archivierung (44,6 %; n = 107)
-17
-- Fehlende Zeitressourcen (44,2 %; n = 106)
-- Datenorganisation und -strukturierung (41,3 %; n = 99)
-- Mangel an Schulungen oder Unterstützung im Datenmanagement (30,4 %; n = 73)
-- Zugang und Teilen von Daten mit anderen Forschenden (28,8 %; n = 69)
-- Sicherstellung der Datenqualität (27,5 %; n = 66)
+"Am häufigsten genannt wurden dabei folgende Herausforderungen und Problematiken:
 
-" In weiten Teilen der Fachpraxis wird FDM nicht als integraler Bestandteil restauratorischer Arbeit verstanden, sondern als zusätzliche Aufgabe, die in der Planung häufig nicht ausreichend berücksichtigt wird."
+* Langfristige Speicherung und Archivierung (44,6 %; n = 107)
+* Fehlende Zeitressourcen (44,2 %; n = 106)
+* Datenorganisation und -strukturierung (41,3 %; n = 99)
+* Mangel an Schulungen oder Unterstützung im Datenmanagement (30,4 %; n = 73)
+* Zugang und Teilen von Daten mit anderen Forschenden (28,8 %; n = 69)
+* Sicherstellung der Datenqualität (27,5 %; n = 66)
 
+In weiten Teilen der Fachpraxis wird FDM nicht als integraler Bestandteil restauratorischer Arbeit verstanden, sondern als zusätzliche Aufgabe, die in der Planung häufig nicht ausreichend berücksichtigt wird.
+
+Erschwerend kommen Unsicherheiten bezüglich der Anforderungen und Herangehensweisen hinzu. FDM wird in Teilen der Fachcommunity als “zu technisch” oder “zu abstrakt” wahrgenommen. Es handelt sich um ein Aufgabenfeld, das außerhalb der eigenen Kernkompetenz liegt. Viele Teilnehmende wissen nicht genau, was unter “guten” FDM-Praktiken zu verstehen ist, beispielsweise welche Dateiformate als nachhaltig gelten, wie eine nachvollziehbare Datenstrukturierung auszusehen hat oder welche Maßnahmen zur Qualitätssicherung notwendig wären. Dieser Eindruck wird durch fehlende unterstützende
+Einstiegsmöglichkeiten und unübersichtliche Software- und Tool-Landschaften noch verstärkt."
+
+Grafik???
+
+---
 
 ## 1.5 Wer trägt Verantwortung im FDM?
 
-Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:innen beteiligt sind. 
+Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:innen beteiligt sind. Im FDM wird häufig zwischen Rollen und Zuständigkeiten unterschieden – Rollen sind "Wer" beteiligt ist, Verantwortungsbereiche sind "Was" sie tun.
 
 Verantwortung bedeutet hier nicht „eine Person macht alles“, sondern Rollen übernehmen, Zuständigkeiten abgrenzen und Zusammenarbeit organisieren.
 
-* Typische Rollen im FDM (Beispiele):
+**Typische Rollen und Verantwortungsbereiche im FDM (Beispiele)**
+
 * Forschende / Projektleitende – tragen die Hauptverantwortung für den Umgang mit den eigenen Daten, von der Erhebung bis zur Publikation.
 * Data Stewards / FDM-Beauftragte – beraten, unterstützen bei Planung, Standards, Dokumentation.
 * IT & Infrastruktur – stellen Speicher, Backup, Zugriffsrechte und technische Dienste bereit.
 * Bibliotheken / Archive – sichern Daten, vergeben Persistente Identifier, garantieren Nachnutzung und Auffindbarkeit.
 * Förderinstitutionen – setzen Rahmenbedingungen durch Policies und Anforderungen an Datenmanagementpläne.
 
-**Wichtig: Verantwortung ist geteilte Verantwortung, und sie verändert sich entlang des Datenlebenszyklus. Jede Rolle und Zuständigkeit hat ihren Platz im Datenlebenszyklus. **
+---
 
-### 1.6 Beispiel-Rollen und -Zuständigkeiten im FDM
+## 1.6 Selbstverortung im FDM
 
->**FDM-Mini-Speed-Dating**
+
+>__Übung: FDM-Mini-Speed-Dating zum Rollenspektrum__
 >
->Die Teilnehmenden drehen sich zur Person neben (1x links und 1x rechts).
+>Die Teilnehmenden sprechen jeweils 30 Sekunden mit der Person links und rechts.
 >
->Jede:r beantwortet in 30 Sekunden die Frage: 
+>Impulsfrage:
 >
->*Welche Rolle und Zuständigkeit trage ich selbst im Umgang mit Forschungsdaten?*
+>*Welche Rolle(n) nehme ich selbst im Umgang mit Forschungsdaten ein, und welche Zuständigkeiten ergeben sich daraus?*
 >
->Schreibt eure Rolle auf eine Moderationskarte und hängt diese an das Flipchart.
+>Anschließend wird eine Rolle (z. B. „Doktorand:in in einem Projekt“, „IT-Admin“, „FDM-Beauftragte:r“) und 
+>einen zentraler Verantwortungsbereich (z. B. „Daten dokumentieren“, „Backup betreuen“, „Beratung geben“)
+>auf eine Moderationskarte geschrieben und gemeinsam an einem Flipchart gesammelt.
+
+
+**Fazit:** Verantwortung ist geteilte Verantwortung, und sie verändert sich entlang des Datenlebenszyklus. Jede Rolle und Zuständigkeit hat ihren Platz im Datenlebenszyklus. 
+
+---
 
 ## 1.7 Welche Phasen hat Datenlebenszyklus von Sammlungs- und Objektdaten in SODa?
 
@@ -182,67 +207,51 @@ Die Phasen des SODa-Datenlebenszyklus bilden einen Rahmen für konkrete Umsetzun
 * Rechtliche & ethische Aspekte
 * Langzeitverfügbarkeit (nach FAIR-Prinzipien)
 
+---
 
-### 1.8 Beispiel-Maßnahmen verstehen
+## 1.8 Beispiel-Maßnahmen entlang des Datenlebenszyklus verstehen
 
->**Card-Sorting**
+>__Übung: Card-Sorting__
 >
 >Moderationskarten mit Maßnahmen dem SODa Datenlebenszyklus zuordnen.
 >
 >Was fehlt?
 
+### Zuordnung der Maßnahmen zum SODa-Datenlebenszyklus (Beispiel)
 
-1. Konzeption & Planung: 
-Datenmanagementplan erstellen
-Verantwortlichkeiten und Rollen klären
-geeignete Tools und Formate auswählen
-rechtliche & ethische Rahmenbedingungen prüfen
+| Phase | Maßnahmen |
+|-------|-----------|
+| **1. Konzeption & Planung** | - Datenmanagementplan erstellen<br>- Verantwortlichkeiten und Rollen klären<br>- Geeignete Tools und Formate auswählen<br>- Rechtliche & ethische Rahmenbedingungen prüfen |
+| **2. Strukturiertes Erzeugen von Objekt- und Sammlungsdaten** | - Einheitliche Erfassungsrichtlinien festlegen<br>- Kontrollierte Vokabulare und Normdaten nutzen<br>- Strukturierte Eingabeformulare einsetzen |
+| **3. Datenqualität & Kompatibilität** | - Datenvalidierung und Plausibilitätsprüfungen<br>- Verwendung von Standards (z. B. CIDOC CRM, LIDO)<br>- Vergabe von Persistent Identifiers (DOI, Handle, ARK)<br>- Linked Data-Prinzipien anwenden |
+| **4. Inhaltliche Aufbereitung & Anreicherung** | - Metadaten mit Kontextinformationen ergänzen<br>- Verknüpfungen zu externen Ressourcen herstellen<br>- Annotationen, semantische Relationen und Graphen aufbauen |
+| **5. Rechtliche & ethische Aspekte** | - Rechteklärung (Urheberrecht, Bildrechte, Lizenzen)<br>- Datenschutzregelungen beachten<br>- Zugriffsrechte und Rollenverwaltung umsetzen |
+| **6. Langzeitverfügbarkeit** | - Sicherungskonzepte (Backup, Replikation)<br>- Langzeitarchive und Repositorien nutzen<br>- Migrationsstrategien für Formate planen<br>- Versionierung und Änderungsdokumentation einführen |
 
-2. Strukturiertes Erzeugen von Objekt- und Sammlungsdaten
-einheitliche Erfassungsrichtlinien festlegen
-kontrollierte Vokabulare und Normdaten nutzen
-strukturierte Eingabeformulare einsetzen
-
-3. Datenqualität & Kompatibilität
-Datenvalidierung und Plausibilitätsprüfungen
-Verwendung von Standards (z. B. CIDOC CRM, LIDO)
-Vergabe von Persistent Identifiers (DOI, Handle, ARK)
-Linked Data-Prinzipien anwenden
-
-4. Inhaltliche Aufbereitung & Anreicherung
-Metadaten mit Kontextinformationen ergänzen
-Verknüpfungen zu externen Ressourcen herstellen
-Annotationen, semantische Relationen und Graphen aufbauen
-
-5. Rechtliche & ethische Aspekte
-Rechteklärung (Urheberrecht, Bildrechte, Lizenzen)
-Datenschutzregelungen beachten
-Zugriffsrechte und Rollenverwaltung umsetzen
-
-6. Langzeitverfügbarkeit
-Sicherungskonzepte (Backup, Replikation)
-Langzeitarchive und Repositorien nutzen
-Migrationsstrategien für Formate planen
-Versionierung und Änderungsdokumentation einführen
-
-
+---
 
 ## 1.9 Welche Bedarfe haben wir?
 
-Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus konkreten Situationen:
+Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konkreten Arbeitsprozessen, Herausforderungen und Zielen im Umgang mit Objekten und Sammlungen. 
+
+**Typische Bedarfsfelder sind:**
 
 * Objekte sichern: Dokumentation von Zustand, Behandlungen, Montagen.
 * Transparenz schaffen: Klare Verantwortlichkeiten und Rollen.
 * Nachnutzbarkeit sichern: Datenformate, Standards, Metadaten.
 * Nachhaltigkeit gewährleisten: Langzeitarchivierung, Versionierung, Migration.
 
-### 1.10 Eigene Rolle und Kompetenzen reflektieren
+---
 
->**Think-Pair-Share**
+## 1.10 Eigene Rolle und Kompetenzen reflektieren
+
+>__Übung: Think-Pair-Share__
 >
->Wo sehe ich meinen größten Unterstützungsbedarf?
+>Impulsfrage*
 >
->Think: 2–3 Min. individuelle Notizen
+>*Wobei benötige ich selbst am meisten Unterstützung im Umgang mit Forschungsdaten?*
+>
+>Think: 2–3 Min. individuelle Reflektion und Notizen
 >
 >Pair: 3–4 Min. Austausch in Kleingruppen (2–3 Personen)
 >
@@ -253,6 +262,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 
 >siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025) 
     in 01E_M1_E11(Begriff Forschungsdaten)
+    in 01E_M1_E13(Relevanz von Forschungsdatenmanagement)
     
 
 [1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824
@@ -263,11 +273,6 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 
 [4] Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen (2018), Universität Göttingen, https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=64
 
-[5] https://zenodo.org/records/17475354
+[5] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
 
-<<<<<<< HEAD
-
-
-=======
-
->>>>>>> 8805d66044e05551b574f105138e19d55f149559
+[6] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17475354
