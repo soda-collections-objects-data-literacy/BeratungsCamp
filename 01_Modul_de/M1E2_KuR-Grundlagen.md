@@ -35,7 +35,19 @@ Lernende können...
 
 2\.2 Funktionen und Verantwortlichkeiten von Restaurator\*innen erläutern. (neu)
 
+2\.3 Die Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen erläutern. (LZM-ID: 03\_001\_0602 adaptiert)
 
+2\.4 Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)Dokumentation benennen. (LZM-ID: 03\_001\_0600 adaptiert)
+
+2\.5 Den Prozess der Konservierung-Restaurierung benennen. (neu)
+
+2\.6 Den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung beurteilen. (LZM-ID: 03\_001\_0601,02 adaptiert|LZ-Verb angepasst)
+
+2\.7 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) erläutern. (LZM-ID: 03\_001\_0600 adaptiert|LZ-Verb angepasst)
+
+2\.8 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) in Hinblick auf die eigene Sammlung anwenden.
+
+2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZM-ID: 03\_003\_0646 adaptiert)
 
 ---
 
@@ -198,6 +210,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [3] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
 
 [4] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
