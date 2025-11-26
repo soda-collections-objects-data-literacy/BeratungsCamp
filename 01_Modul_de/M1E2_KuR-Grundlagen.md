@@ -62,7 +62,7 @@ Die "Europäische Vereinigung der Restauratorenverbände" (E.C.C.O.) bestimmt in
 * Sicherung der **immateriellen Informationen**
 * Gewährleistung der **Zugänglichkeit** des materiellen Erbes und der mit diesem verbundenen Informationen
 
-Die Dokumentatioin ist ein zentraler Teil dieser Verantwortung und damit der restauratorischen Praxis. Sie speichert Information und unterstützt den Substanzerhalt.
+Die Dokumentation ist ein zentraler Teil dieser Verantwortung und damit der restauratorischen Praxis. Sie speichert Information und unterstützt den Substanzerhalt.
 
 ### Die Bewahrung in wissenschaftlichen Sammlungen: Ein Balanceakt zwischen Substanzerhalt und Nutzbarmachung
 
@@ -72,6 +72,40 @@ Dieser Balanceakt erfordert die kontinuierliche Erzeugung, Sammlung und den Aust
 
 Nur eine strukturierte Dokuemtation ermöglicht es, diesen Balanceakt professionell zu steuern.
 
+### Die Verantwortungsbereiche von Restaurator\*innen [1]
+
+* Ausführung strategischer Planungen und diagnostischer Untersuchungen
+* Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
+* präventive Konservierung
+* Konservierung-Restaurierung
+* Beobachtung jeglicher Eingriffe
+
+>__Übung: Zuruf__
+>
+>Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?
+
+Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Restaurator\*innen.
+
+* Ausführung von strategischer Planungen und diagnostischer Untersuchungen
+* Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
+* präventive Konservierung
+* Konservierung-Restaurierung
+* **Dokumentation**
+* Beobachtung
+
+* Dokumentation liefert die Grundlage für konservatorische Entscheidungen
+* Dokumentation sichert Erfahrungswissen aus der restauratorischen Praxis
+* Dokumentation ermöglicht interdisziplinäre Forschung an und mit kulturellem Erbe
+* Dokumentation gewährleistet Transparenz, Nachvollziehbarkeit und Qualitätssicherung
+* ...
+
+Dokumentation ist kein Zusatz, sondern der Schlüssel, um Substanzerhalt und wissenschaftliche Nutzung von materiellem Erbe miteinander zu verbinden.
+
+---
+
 ## Quellenangaben
 
 [1] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 26. Novemberg 2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf)
+
+
+
