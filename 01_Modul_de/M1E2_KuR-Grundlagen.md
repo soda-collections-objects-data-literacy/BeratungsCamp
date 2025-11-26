@@ -84,7 +84,11 @@ Nur eine strukturierte Dokuemtation ermöglicht es, diesen Balanceakt profession
 >
 >Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?
 
-Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Restaurator\*innen.
+---
+
+## 2.3 Gute Überschrift finden!
+
+Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Restaurator\*innen: [1]
 
 * Ausführung von strategischer Planungen und diagnostischer Untersuchungen
 * Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
@@ -92,6 +96,8 @@ Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen 
 * Konservierung-Restaurierung
 * **Dokumentation**
 * Beobachtung
+
+Bedeutung der Dokumentation
 
 * Dokumentation liefert die Grundlage für konservatorische Entscheidungen
 * Dokumentation sichert Erfahrungswissen aus der restauratorischen Praxis
@@ -103,9 +109,48 @@ Dokumentation ist kein Zusatz, sondern der Schlüssel, um Substanzerhalt und wis
 
 ---
 
+## 2.4 Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)dokumentation
+
+"Die Dokumentation besteht aus genauen bildlichen und schriftlichen Aufzeichnungen aller ausgeführten Maßnahmen sowie deren Begründung. 
+
+Ein Exemplar des Berichts muss dem Eigentümer oder Kustos des kulturellen Erbes vorgelegt werden: sein Inhalt muss zugänglich bleiben.
+
+Weitere Anforderungen an die Lagerung, Pflege, Ausstellung oder den Zugang zum kulturellen Erbe sollen in diesem Dokument präzisiert werden.
+
+Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen für zukünftige Auswertungen aufbewahrt werden." [1]
+
+### 
+
+Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [2]
+
+* Konservierung-Restaurierung (erfordert die)
+* Phase 1: Untersuchung und Diagnose (führt zu)
+* Phase 2: Feststellen des Bedarfs (ermöglicht)
+* Phase 3: Abwägen von K-R-Maßnahmen (erfordert das)
+* Phase 4: Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)
+* Phase 5: K-R Maßnahmen (zum Erreichen von)
+* Phase 6: Resultaten (gefolgt von)
+* Phase 7: abschließenden Empfehlungen
+
+### Kern der Dokumentation: Die diagnostische Untersuchung und die Konservierungs- und Restaurierungsmaßnahmen
+
+* Diagnostische Untersuchung
+* präventive Konservierung
+* Konservierung
+* Restaurierung
+
+>__Übung: Maßnahmenpäckchen | Drehen und Wenden__
+>
+>Nehmt Euch ein Maßnahmenpäckchen. Auf jedem Kärtchen ist ein Definitionselement notiert.
+>
+>Pinnt die Definitionselemente unter den passenden Begriff: Diagnostische Untersuchung, präventive Konservierung, Konservierung oder Restaurierung
+
 ## Quellenangaben
 
 [1] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 26. Novemberg 2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf)
+
+[2] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zumn Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 26.11.2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf)
+
 
 
 
