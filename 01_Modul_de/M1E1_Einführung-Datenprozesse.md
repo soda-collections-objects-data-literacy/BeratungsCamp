@@ -172,7 +172,7 @@ In weiten Teilen der Fachpraxis wird FDM nicht als integraler Bestandteil restau
 Erschwerend kommen Unsicherheiten bezüglich der Anforderungen und Herangehensweisen hinzu. FDM wird in Teilen der Fachcommunity als “zu technisch” oder “zu abstrakt” wahrgenommen. Es handelt sich um ein Aufgabenfeld, das außerhalb der eigenen Kernkompetenz liegt. Viele Teilnehmende wissen nicht genau, was unter “guten” FDM-Praktiken zu verstehen ist, beispielsweise welche Dateiformate als nachhaltig gelten, wie eine nachvollziehbare Datenstrukturierung auszusehen hat oder welche Maßnahmen zur Qualitätssicherung notwendig wären. Dieser Eindruck wird durch fehlende unterstützende
 Einstiegsmöglichkeiten und unübersichtliche Software- und Tool-Landschaften noch verstärkt."
 
-Grafik???
+[Herausforderungen im FDM](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/main/visualisation/png/Herausforderungen_FDM.png)
 
 ---
 
