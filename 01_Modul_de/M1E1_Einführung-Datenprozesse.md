@@ -174,6 +174,7 @@ Einstiegsmöglichkeiten und unübersichtliche Software- und Tool-Landschaften no
 
 ![Herausforderungen im FDM](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png)
 
+Fischer, Kristina (2025): [Inhaltstitel der Abbildung], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 ---
 
 ## 1.5 Wer trägt Verantwortung im FDM?
@@ -292,6 +293,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [5] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
 
 [6] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17475354
+
 
 
 
