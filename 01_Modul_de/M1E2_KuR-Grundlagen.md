@@ -45,7 +45,7 @@ Lernende können...
 
 ---
 
-## 2.1 Grundsatzpapiere für den Beruf der Konservaotr\*in-Restaurator\*in mit Relevanz für Forschungsdatenmanagement (FDM)
+## 2.1 Grundsatzpapiere für den Beruf der Konservator\*in-Restaurator\*in mit Relevanz für Forschungsdatenmanagement (FDM)
 
 Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Restaurator\*innen finden sich auf der Homepage des *Verbandes für Restaurator:innen* unter dem Reiter "Karriere".
 Abrufbar unter: https://www.restauratoren.de/beruf/grundsatzpapiere/ (Stand: 26.11.2025)
@@ -198,6 +198,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [3] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
 
 [4] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
