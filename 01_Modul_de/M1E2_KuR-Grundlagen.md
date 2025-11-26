@@ -180,7 +180,7 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 
 ## 2.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2
 
-Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* erarbeitet 2025 einen Minimalmetadatensatz zur **Erfassung von konservierungs- und restaurierungsbezogenen Daten**, um diese Daten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung u. a. für die Sammlungspraxis, Forschung und Lehre sicherzustellen. [3]
+Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* [3] erarbeitet 2025 einen Minimalmetadatensatz zur **Erfassung von konservierungs- und restaurierungsbezogenen Daten**, um diese Daten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung u. a. für die Sammlungspraxis, Forschung und Lehre sicherzustellen. [4]
 
 Der Minimalmetadatensatz kann auf einer Mock-up Page getestet und evaluiert werden: https://conservationdata.github.io/docu/#/
 
@@ -196,6 +196,9 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [2] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zumn Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 26.11.2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf)
 
 [3] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
+[4] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
