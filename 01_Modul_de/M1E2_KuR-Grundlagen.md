@@ -45,7 +45,7 @@ Lernende können...
 
 2\.7 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) erläutern. (LZM-ID: 03\_001\_0600 adaptiert|LZ-Verb angepasst)
 
-2\.8 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) in Hinblick auf die eigene Sammlung anwenden.
+2\.8 Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. (LZ-ID: 03\_001\_0613 adaptiert)
 
 2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZM-ID: 03\_003\_0646 adaptiert)
 
@@ -53,8 +53,20 @@ Lernende können...
 
 ## Voraussetzung
 
-*xyz
-
+* Funktionen und Verantwortlichkeiten von Personen im Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0033)
+  
+* Begriff der Datendokumentation erläutern. (LZM-ID: 03\_001\_0599)
+  
+* Inhalte einer Datendokumentation benennen. (LZM-ID: 03\_001\_0600)
+  
+* Relevanz einer Datendokumentation benennen. (LZM-ID: 03\_001\_0601)
+  
+* Relevanz einer Datendokumentation erläutern. (LZM-ID: 03\_001\_0602)
+  
+* Eigene Datendokumentation analysieren. (LZM-ID: 03\_001\_0613)
+  
+* Unterschiede zwischen Daten, Informationen und Wissen erläutern. (LZM-ID: 02\_001\_0207)
+  
 ---
 
 ## 2.1 Grundsatzpapiere für den Beruf der Konservator\*in-Restaurator\*in mit Relevanz für Forschungsdatenmanagement (FDM)
@@ -175,8 +187,9 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 >
 >Nehmt Euch ein Maßnahmenpäckchen. Auf jedem Kärtchen ist ein Definitionselement notiert.
 >
->Pinnt die Definitionselemente unter den passenden Begriff: Diagnostische Untersuchung, präventive Konservierung, Konservierung oder Restaurierung
+>Pinnt die Definitionselemente unter den passenden Begriff: Diagnostische Untersuchung, präventive Konservierung, Konservierung und Restaurierung
 
+**Fazit:** *ergänzen*
 ---
 
 ## 2.8 Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen in der eigenen Sammlung (als Inhalte einer Datendokumentation)
@@ -210,6 +223,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [3] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
 
 [4] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
