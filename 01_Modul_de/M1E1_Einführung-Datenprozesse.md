@@ -172,7 +172,7 @@ In weiten Teilen der Fachpraxis wird FDM nicht als integraler Bestandteil restau
 Erschwerend kommen Unsicherheiten bezüglich der Anforderungen und Herangehensweisen hinzu. FDM wird in Teilen der Fachcommunity als “zu technisch” oder “zu abstrakt” wahrgenommen. Es handelt sich um ein Aufgabenfeld, das außerhalb der eigenen Kernkompetenz liegt. Viele Teilnehmende wissen nicht genau, was unter “guten” FDM-Praktiken zu verstehen ist, beispielsweise welche Dateiformate als nachhaltig gelten, wie eine nachvollziehbare Datenstrukturierung auszusehen hat oder welche Maßnahmen zur Qualitätssicherung notwendig wären. Dieser Eindruck wird durch fehlende unterstützende
 Einstiegsmöglichkeiten und unübersichtliche Software- und Tool-Landschaften noch verstärkt."
 
-[Herausforderungen im FDM](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/main/visualisation/png/Herausforderungen_FDM.png)
+[Herausforderungen im FDM](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png)
 
 ---
 
@@ -292,5 +292,6 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [5] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
 
 [6] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17475354
+
 
 
