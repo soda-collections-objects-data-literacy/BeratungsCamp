@@ -37,9 +37,8 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 1 | Einführung in wissenschaftliche Datenprozesse | 30 Min. |
-| 2 | KuR Grundlagen | 30 Min. |
-| 3 | Datenarbeit | 30 Min. |
+| 1 | Einführung in wissenschaftliche Datenprozesse | 45 Min. |
+| 2 | KuR Grundlagen | 45 Min. |
 
 ---
 
@@ -289,4 +288,5 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [5] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
 
 [6] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17475354
+
 
