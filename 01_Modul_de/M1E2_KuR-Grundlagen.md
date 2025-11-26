@@ -86,7 +86,7 @@ Nur eine strukturierte Dokuemtation ermöglicht es, diesen Balanceakt profession
 
 ---
 
-## 2.3 Gute Überschrift finden!
+## 2.3 Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
 
 Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Restaurator\*innen: [1]
 
@@ -105,7 +105,9 @@ Bedeutung der Dokumentation
 * Dokumentation gewährleistet Transparenz, Nachvollziehbarkeit und Qualitätssicherung
 * ...
 
-Dokumentation ist kein Zusatz, sondern der Schlüssel, um Substanzerhalt und wissenschaftliche Nutzung von materiellem Erbe miteinander zu verbinden.
+Dokumentation ist kein Zusatz, sondern der Schlüssel, um Substanzerhalt und wissenschaftliche Nutzung von materiellem Erbe miteinander zu verbinden. 
+
+Dokumentation hat eine hohe Relevanz im Verantwortungsbereich von Restaurator\*innen.
 
 ---
 
@@ -121,7 +123,7 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 
 ---
 
-## 2.5 Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation)
+## 2.5 Der Prozess der Konservierung-Restaurierung
 
 ### Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [2]
 
@@ -133,6 +135,22 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 * Phase 5: K-R Maßnahmen (zum Erreichen von)
 * Phase 6: Resultaten (gefolgt von)
 * Phase 7: abschließenden Empfehlungen
+
+---
+
+## 2.6 Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung
+
+>__Übung: Zuruf__
+>
+>Welche Phasen des Prozesses der Konservierung-Restaurierung erfordern eine präzise Dokumentation?
+
+**Fazit:** Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.
+
+**Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Restaurator\*innen.**
+
+---
+
+## 2.7 Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation)
 
 ### Kern der Dokumentation: Die diagnostische Untersuchung und die Konservierungs- und Restaurierungsmaßnahmen
 
@@ -147,19 +165,38 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 >
 >Pinnt die Definitionselemente unter den passenden Begriff: Diagnostische Untersuchung, präventive Konservierung, Konservierung oder Restaurierung
 
-### Dokumentation als Forschungsdatenmanagement (FDM)
+---
 
-Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.
+## 2.8 Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen in der eigenen Sammlung (als Inhalte einer Datendokumentation)
 
-Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Restaurator\*innen.
+>__Übung: Mini-Übung__
+>
+> *ergänzen*
 
-## 2.6 
+
+**Fazit:** *ergänzen*
+
+---
+
+## 2.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2
+
+Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* erarbeitet 2025 einen Minimalmetadatensatz zur **Erfassung von konservierungs- und restaurierungsbezogenen Daten**, um diese Daten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung u. a. für die Sammlungspraxis, Forschung und Lehre sicherzustellen. [3]
+
+Der Minimalmetadatensatz kann auf einer Mock-up Page getestet und evaluiert werden: https://conservationdata.github.io/docu/#/
+
+Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendung finden sich in einem verlinkten Metadaten-Thesaurus: https://conservationdata.github.io/terms/
+
+---
+
 
 ## Quellenangaben
 
 [1] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 26. Novemberg 2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf)
 
 [2] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zumn Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 26.11.2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf)
+
+[3] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
