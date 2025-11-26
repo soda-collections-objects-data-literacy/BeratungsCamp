@@ -90,7 +90,7 @@ Die Dokumentation ist ein zentraler Teil dieser Verantwortung und damit der rest
 
 ### Die Bewahrung in wissenschaftlichen Sammlungen: Ein Balanceakt zwischen Substanzerhalt und Nutzbarmachung
 
-In wissenschaftlichen Sammlungen bedeutet Bewahrung einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Ausstellung, Forschung, Analyse und Lehre.
+In wissenschaftlichen Sammlungen bedeutet Bewahrung einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Vermittlung von Wissen, laboratorische Untersuchungen, Forschung und Lehre. [2]
 
 Dieser Balanceakt erfordert die kontinuierliche Erzeugung, Sammlung und den Austausch von Informationen über Institutionen und Fachdisziplinen hinweg. 
 
@@ -149,7 +149,7 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 
 ## 2.5 Der Prozess der Konservierung-Restaurierung
 
-### Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [2]
+### Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [3]
 
 * Konservierung-Restaurierung (erfordert die)
 * Phase 1: Untersuchung und Diagnose (führt zu)
@@ -189,7 +189,8 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 >
 >Pinnt die Definitionselemente unter den passenden Begriff: Diagnostische Untersuchung, präventive Konservierung, Konservierung und Restaurierung
 
-**Fazit:** *ergänzen*
+**Fazit:** Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden. Im Grunde ist 
+
 ---
 
 ## 2.8 Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen in der eigenen Sammlung (als Inhalte einer Datendokumentation)
@@ -205,7 +206,7 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 
 ## 2.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2
 
-Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* [3] erarbeitet 2025 einen Minimalmetadatensatz zur **Erfassung von konservierungs- und restaurierungsbezogenen Daten**, um diese Daten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung u. a. für die Sammlungspraxis, Forschung und Lehre sicherzustellen. [4]
+Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* [4] erarbeitet 2025 einen Minimalmetadatensatz zur **Erfassung von konservierungs- und restaurierungsbezogenen Daten**, um diese Daten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung u. a. für die Sammlungspraxis, Forschung und Lehre sicherzustellen. [5]
 
 Der Minimalmetadatensatz kann auf einer Mock-up Page getestet und evaluiert werden: https://conservationdata.github.io/docu/#/
 
@@ -218,11 +219,14 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 
 [1] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 26. Novemberg 2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf)
 
-[2] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zumn Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 26.11.2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf)
+[2] Weber, C. (2020). Universitätssammlungen: keine Museen, sondern Infrastrukturen für Forschung und Lehre. In ICOM Deutschland und M. Walz (Hrsg.), *Museum: ausreichend. Die „untere Grenze“ der Museumsdefinition: Tagungsband des Internationalen Bodensee-Symposiums 2018* (Beiträge zur Museologie, Band 9, S. 130–140). https://doi:10.11588/arthistoricum.565.c8979
 
-[3] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+[3] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zumn Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 26.11.2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf)
 
-[4] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+[4] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
+[5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
