@@ -138,7 +138,11 @@ Entsprechend vielfältig sind die Problemfelder im Forschungsdatenmanagement.
 * **Probleme bei Langzeitarchivierung**, Formatmigration und Speicherstrategien
 * Fehlende oder mangelhafte **Versionierung** von Datensätzen und Dokumentationen
 
-Diese generischen Probleme treten in vielen Forschungsdisziplinen auf, wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Erhaltung materieller Kulturgüter und ihrer digitalen Repräsentationen essenziell ist.
+Diese generischen Probleme treten in vielen Forschungsdisziplinen auf.
+
+Sie wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Erhaltung materieller Kulturgüter und ihrer digitalen Repräsentationen essenziell ist.
+
+---
 
 ### Problemfelder in der Konservierung und Restaurierung (KuR)
 
@@ -174,7 +178,9 @@ Grafik???
 
 ## 1.5 Wer trägt Verantwortung im FDM?
 
-Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:innen beteiligt sind. Im FDM wird häufig zwischen Rollen und Zuständigkeiten unterschieden – Rollen sind "Wer" beteiligt ist, Verantwortungsbereiche sind "Was" sie tun.
+Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:innen beteiligt sind. 
+
+Im FDM wird häufig zwischen Rollen und Zuständigkeiten unterschieden – Rollen sind "Wer" beteiligt ist, Verantwortungsbereiche sind "Was" sie tun.
 
 Verantwortung bedeutet hier nicht „eine Person macht alles“, sondern Rollen übernehmen, Zuständigkeiten abgrenzen und Zusammenarbeit organisieren.
 
@@ -190,7 +196,6 @@ Verantwortung bedeutet hier nicht „eine Person macht alles“, sondern Rollen 
 
 ## 1.6 Selbstverortung im FDM
 
-
 >__Übung: FDM-Mini-Speed-Dating zum Rollenspektrum__
 >
 >Die Teilnehmenden sprechen jeweils 30 Sekunden mit der Person links und rechts.
@@ -202,7 +207,6 @@ Verantwortung bedeutet hier nicht „eine Person macht alles“, sondern Rollen 
 >Anschließend wird eine Rolle (z. B. „Doktorand:in in einem Projekt“, „IT-Admin“, „FDM-Beauftragte:r“) und 
 >einen zentraler Verantwortungsbereich (z. B. „Daten dokumentieren“, „Backup betreuen“, „Beratung geben“)
 >auf eine Moderationskarte geschrieben und gemeinsam an einem Flipchart gesammelt.
-
 
 **Fazit:** Verantwortung ist geteilte Verantwortung, und sie verändert sich entlang des Datenlebenszyklus. Jede Rolle und Zuständigkeit hat ihren Platz im Datenlebenszyklus. 
 
