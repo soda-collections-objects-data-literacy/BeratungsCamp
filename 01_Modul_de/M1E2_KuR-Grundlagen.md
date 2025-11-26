@@ -119,9 +119,11 @@ Weitere Anforderungen an die Lagerung, Pflege, Ausstellung oder den Zugang zum k
 
 Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen für zukünftige Auswertungen aufbewahrt werden." [1]
 
-### 
+---
 
-Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [2]
+## 2.5 Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation)
+
+### Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [2]
 
 * Konservierung-Restaurierung (erfordert die)
 * Phase 1: Untersuchung und Diagnose (führt zu)
@@ -145,11 +147,20 @@ Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [2]
 >
 >Pinnt die Definitionselemente unter den passenden Begriff: Diagnostische Untersuchung, präventive Konservierung, Konservierung oder Restaurierung
 
+### Dokumentation als Forschungsdatenmanagement (FDM)
+
+Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.
+
+Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Restaurator\*innen.
+
+## 2.6 
+
 ## Quellenangaben
 
 [1] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 26. Novemberg 2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf)
 
 [2] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zumn Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 26.11.2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf)
+
 
 
 
