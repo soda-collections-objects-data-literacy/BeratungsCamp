@@ -28,11 +28,11 @@ SODagestaltungsprinzip: Forschendes Lernen
 classification: *Zielgruppe
 classification description: basierend auf SODaPersonas-Beschreibungen: Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-mediatype: Text (mit referenzierten Multimedia-Inhalten [--> das gehört dann in Einheit1])
+mediatype: Text (mit referenzierten Multimedia-Inhalten [das gehört dann in Einheit1])
 technical format: Markdown mit LiaScript-Erweiterungen
 file format: .md | MIME: text/markdown
 software: LiaScript
-runtime environment: https://liascript.github.io (, Webbrowser für Anzeige der referenzierten Inhalte --> das gehört dann in Einheit1)
+runtime environment: https://liascript.github.io (, Webbrowser für Anzeige der referenzierten Inhalte das gehört dann in Einheit1)
 
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
@@ -263,6 +263,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
