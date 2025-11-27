@@ -49,7 +49,7 @@ Einheit 1: **Einführung in die Grundlagen des sammlungsbezogenen Forschungsdate
 
 Das SODa BeratungsCamp unterstützt die Kompetenzentwicklung im Forschungsdatenmanagement (FDM) mit Fokus auf strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation.
 
-Das 120-minütige Modul umfasst zwei Einheiten: (1) xxx und (2) eine Einführung in die Grundlagen der Dokumentation von Erhaltungsmaßnahmen. Durch partizipative Methoden, Fallbeispiele aus der Community und gemeinsame Reflexionsphasen werden Lerninhalte kollaborativ erarbeitet und auf eigene sammlungsbezogene Kontexte übertragen. Das Modul wird aktiv moderiert und gemeinsam gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen. 
+Das 120-minütige Modul umfasst zwei Einheiten: (1) Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen und (2) eine Einführung in die Grundlagen der Dokumentation von Erhaltungsmaßnahmen. Durch partizipative Methoden, Fallbeispiele aus der Community und gemeinsame Reflexionsphasen werden Lerninhalte kollaborativ erarbeitet und auf eigene sammlungsbezogene Kontexte übertragen. Das Modul wird aktiv moderiert und gemeinsam gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen. 
 
 ---
 
@@ -126,7 +126,7 @@ Forschungsdatenmanagement (FDM)...
 * trägt zur Qualitätssicherung und Nachvollziehbarkeit von Forschung bei
 * schützt vor Datenverlust und unklaren Eigentumsverhältnissen
 * erfüllt Anforderungen von Projektförderern
-* schafft Verlässlichkeit bei Projektwechseln und Personalfluktuation [6].
+* schafft Verlässlichkeit bei Projektwechseln und Personalfluktuation [2].
 
 Zudem sichert FDM den Zugang zu Sammlungs- und Forschungsdaten und damit ihre Nachnutzung und berücksichtigt ethische Aspekte z.B. in Bezug auf Objekte, die aus Unrechtskontexten stammen.
 
@@ -171,7 +171,7 @@ Sie wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Er
 
 #### Erhebung: 
 
-> **Hinweis:** Im folgenden übernommen aus *Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung* [7]
+> **Hinweis:** Im folgenden übernommen aus *Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung* [6]
 
 Am häufigsten genannt wurden dabei folgende Herausforderungen und Problematiken:
 
@@ -186,7 +186,7 @@ In weiten Teilen der Fachpraxis wird FDM nicht als integraler Bestandteil restau
 
 Erschwerend kommen Unsicherheiten bezüglich der Anforderungen und Herangehensweisen hinzu. FDM wird in Teilen der Fachcommunity als “zu technisch” oder “zu abstrakt” wahrgenommen. Es handelt sich um ein Aufgabenfeld, das außerhalb der eigenen Kernkompetenz liegt. Viele Teilnehmende wissen nicht genau, was unter “guten” FDM-Praktiken zu verstehen ist, beispielsweise welche Dateiformate als nachhaltig gelten, wie eine nachvollziehbare Datenstrukturierung auszusehen hat oder welche Maßnahmen zur Qualitätssicherung notwendig wären. Dieser Eindruck wird durch fehlende unterstützende Einstiegsmöglichkeiten und unübersichtliche Software- und Tool-Landschaften noch verstärkt."
 
-![Herausforderungen im FDM [8]](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png)
+![Herausforderungen im FDM [7]](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png)
 
 ---
 
@@ -305,11 +305,10 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 [5] Reichert, R. & Hastik, C. (2025, August 7). SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1. Zenodo. https://doi.org/10.5281/zenodo.16761352
 
-[6] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
+[6] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Seite 17-18. Zenodo. https://doi.org/10.5281/zenodo.17475354
 
-[7] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Seite 17-18. Zenodo. https://doi.org/10.5281/zenodo.17475354
+[7] Fischer, K. (2025): [Herausforderungen im FDM], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
-[8] Fischer, K. (2025): [Herausforderungen im FDM], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 
 
