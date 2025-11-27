@@ -61,23 +61,23 @@ Einheit 2: **Einführung in die Grundlagen der Dokumentation von Konservierungs-
 
 Lernende können...
 
-2\.1 Grundsatzpapiere für den Beruf der Konservator\*in-Restaurator\*in mit Relevanz für Forschungsdatenmanagement (FDM) benennen. (neu)
+2\.1 Grundsatzpapiere für den Beruf der Konservator\*in-Restaurator\*in mit Relevanz für Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa\_01_
 
-2\.2 Funktionen und Verantwortlichkeiten von Restaurator\*innen erläutern. (neu)
+2\.2 Funktionen und Verantwortlichkeiten von Restaurator\*innen erläutern. (LZ-ID SODa\_01\_003\_0033a)
 
-2\.3 Die Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen erläutern. (LZM-ID: 03\_001\_0602 adaptiert)
+2\.3 Die Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen erläutern. (LZ-ID SODa\_03\_001\_0602a)
 
-2\.4 Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)Dokumentation benennen. (LZM-ID: 03\_001\_0600 adaptiert)
+2\.4 Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)Dokumentation benennen. (LZ-ID SODa\_03\_001\_0600a)
 
 2\.5 Den Prozess der Konservierung-Restaurierung benennen. (neu)
 
-2\.6 Den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung beurteilen. (LZM-ID: 03\_001\_0601,02 adaptiert|LZ-Verb angepasst)
+2\.6 Den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung beurteilen. (LZM-ID SODa\_03\_001\_1205)
 
-2\.7 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) erläutern. (LZM-ID: 03\_001\_0600 adaptiert|LZ-Verb angepasst)
+2\.7 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) erläutern. (LZM-ID SODa\_03\_001\_1206)
 
-2\.8 Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. (LZ-ID: 03\_001\_0613 adaptiert)
+2\.8 Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. (LZ-ID SODa\_03\_001\_0613a)
 
-2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZM-ID: 03\_003\_0646 adaptiert)
+2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_003\_0646a)
 
 ---
 
@@ -263,6 +263,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
