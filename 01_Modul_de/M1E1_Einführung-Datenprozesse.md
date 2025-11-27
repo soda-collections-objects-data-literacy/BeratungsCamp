@@ -9,7 +9,7 @@ language: DE
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
-comment:  Kurzbeschreibung BeratungsCamp...ergänzen
+comment:  Das SODa BeratungsCamp Modul 1 führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop entwickelt, erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
 
 -->
 
@@ -28,7 +28,14 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 
 ## Begrüßung
 
-Das SODa BeratungsCamp unterstützt die Kompetenzentwicklung im Forschungsdatenmanagement (FDM) mit Fokus auf strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation. Modul 1 wurde als Präsenz-Workshop konzipiert und erprobt und liegt nun als OER mit ausführlichem Drehbuch im Train-the-Trainer-Format vor. Grundlage bildet die überarbeitete Lernzielmatrix zum FDM, deren generische Lernziele gezielt an die Anforderungen wissenschaftlicher Sammlungen angepasst werden. 
+> Herzlich willkommen zum SODa BeratungsCamp: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation.
+>
+>Dieses Modul 1 bietet eine praxisorientierte Einführung in die Planung und Organisation wissenschaftlicher Datenprozesse sowie in die Grundlagen der Dokumentation von Erhaltungsmaßnahmen in universitären Sammlungen. Das Modul wurde als Präsenz-Workshop konzipiert, pilotiert und reflektiert und liegt nun als OER mit ausführlichem Drehbuch im Train-the-Trainer-Format vor.
+>
+>Das Modul verbindet Wissensimpulse, gemeinsames Arbeiten mit strukturierten, sammlungsbezogenen Forschungsdaten und partizipative Methoden zur Analyse bestehender Dokumentationsprozesse. Ziel ist es, Datenkompetenzen weiterzuentwickeln und professionelle, sammlungsbezogene Handlungssicherheit im Forschungsdatenkontext aufzubauen.
+>
+>In den weiterführenden Ausbaustufen wird die Open Educational Resource (OER) um didaktische Methoden für Online-Workshops sowie um eine Selbstlerneinheit ergänzt, die eigenständiges Vertiefen, Reflektieren und Weiterentwickeln der Inhalte ermöglicht.
+
 
 ## Ablauf des Moduls
 
@@ -39,9 +46,10 @@ Das SODa BeratungsCamp unterstützt die Kompetenzentwicklung im Forschungsdatenm
 | 1 | Einführung in wissenschaftliche Datenprozesse | 60 Min. |
 | 2 | KuR Grundlagen | 60 Min. |
 
-Das 120-minütige Modul umfasst zwei Einheiten: (1) xxx und (2) eine Einführung in die Grundlagen der Dokumentation von Erhaltungsmaßnahmen. Durch partizipative Methoden, Fallbeispiele aus der Community und gemeinsame Reflexionsphasen werden Lerninhalte kollaborativ erarbeitet und auf eigene sammlungsbezogene Kontexte übertragen. Das Modul wird aktiv moderiert und gemeinsam gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen. 
 
-Perspektivisch wird die OER um didaktische Methoden für Online-Workshops sowie um eine Selbstlerneinheit erweitert.
+Das SODa BeratungsCamp unterstützt die Kompetenzentwicklung im Forschungsdatenmanagement (FDM) mit Fokus auf strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation.
+
+Das 120-minütige Modul umfasst zwei Einheiten: (1) xxx und (2) eine Einführung in die Grundlagen der Dokumentation von Erhaltungsmaßnahmen. Durch partizipative Methoden, Fallbeispiele aus der Community und gemeinsame Reflexionsphasen werden Lerninhalte kollaborativ erarbeitet und auf eigene sammlungsbezogene Kontexte übertragen. Das Modul wird aktiv moderiert und gemeinsam gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen. 
 
 ---
 
@@ -297,6 +305,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Seite 17-18. Zenodo. https://doi.org/10.5281/zenodo.17475354
 
 [8] Fischer, K. (2025): [Herausforderungen im FDM], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
+
 
 
 
