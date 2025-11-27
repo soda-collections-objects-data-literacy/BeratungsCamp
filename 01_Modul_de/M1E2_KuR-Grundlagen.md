@@ -1,15 +1,34 @@
 <!--
 
-author: Canan Hastik  
-author: Gudrun Schwenk
-email:    
-version:  v1
-language: DE
+author: Hastik, Canan  
+orcid: https://orcid.org/0000-0003-1729-4642
+email: c.hastik@igsd-ev.de
+author: Schwenk, Gudrun
+orcid: https://orcid.org/0009-0002-3156-8339
+email: g.schwenk@igsd-ev.de
+
+title: SODa BeratungsCamp
+modultitel: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
+modulnummer: 1
+einheitstitel: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
+einheitsnummer: 2
+
+classification: *Zielgruppe
+
+version:  v.1.0.0
+language: de
+
+persistent OER link: *ergänzen sobald vorhanden
+rights:  cc-by-4.0
+rights description: 
+
+SODaformat: SODaWorkshop, SODaTrain-the-Trainer
+SODagestaltungsprinzip: 
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
-comment:  Kurzbeschreibung BeratungsCamp...ergänzen
+general:  Kurzbeschreibung BeratungsCamp...ergänzen
 
 -->
 
@@ -21,7 +40,7 @@ Von der Theorie in die Praxis - erläutern und analysieren
 
 Einheit 2: **Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen**  
 
-**Dauer:** ~ 45 Min.
+**Dauer:** ~ 60 Min.
 
 
 
@@ -233,6 +252,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
