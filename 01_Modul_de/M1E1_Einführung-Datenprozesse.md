@@ -19,7 +19,7 @@ comment:  Das SODa BeratungsCamp Modul 1 führt in die Arbeit mit strukturierten
 
 Von der Theorie in die Praxis - erläutern und analysieren
 
-Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkompetenzen & Unterstützungsstrukturen/Professionelles Handeln im Forschungsdatenkontext**  
+Einheit 1: **Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen**  
 
 **Dauer:** ~ 60 Min.
 
@@ -281,11 +281,16 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 >
 >*Wobei benötige ich selbst am meisten Unterstützung im Umgang mit Forschungsdaten?*
 >
->Think: 2–3 Min. individuelle Reflektion und Notizen
+>Think: 2–3 Min. Individuelle Reflektion und Notizen
 >
 >Pair: 3–4 Min. Austausch in Kleingruppen (2–3 Personen)
 >
 >Share (optional): 1–2 Stimmen im Plenum für zentrale Beobachtungen
+
+>__Übung: xxx__
+
+
+
 
 
 ## Quellenangaben 
@@ -294,7 +299,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 [2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-[3] Deutsche Forschungsgemeinschaft (DFG). (2015). Leitlinien zum Umgang mit Forschungsdaten. Abgerufen am 16. Juli 2025, von https://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf (zuletzt abgerufen am 27.11.2025)
+[3] Deutsche Forschungsgemeinschaft (DFG). (2015). Leitlinien zum Umgang mit Forschungsdaten, von https://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf (zuletzt abgerufen am 27.11.2025)
 
 [4] Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen (2018), Universität Göttingen, von https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=64 (zuletzt abgerufen am 27.11.2025)
 
@@ -305,6 +310,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Seite 17-18. Zenodo. https://doi.org/10.5281/zenodo.17475354
 
 [8] Fischer, K. (2025): [Herausforderungen im FDM], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
+
 
 
 
