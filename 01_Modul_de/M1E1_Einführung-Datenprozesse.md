@@ -28,17 +28,20 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 
 ## Begrüßung
 
-*ergänzen*
+Das SODa BeratungsCamp unterstützt die Kompetenzentwicklung im Forschungsdatenmanagement (FDM) mit Fokus auf strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation. Modul 1 wurde als Präsenz-Workshop konzipiert und erprobt und liegt nun als OER mit ausführlichem Drehbuch im Train-the-Trainer-Format vor. Grundlage bildet die überarbeitete Lernzielmatrix zum FDM, deren generische Lernziele gezielt an die Anforderungen wissenschaftlicher Sammlungen angepasst werden. 
 
 ## Ablauf des Moduls
 
 **Modul 1: 120 Min.**
 
-
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
 | 1 | Einführung in wissenschaftliche Datenprozesse | 60 Min. |
 | 2 | KuR Grundlagen | 60 Min. |
+
+Das 120-minütige Modul umfasst zwei Einheiten: (1) xxx und (2) eine Einführung in die Grundlagen der Dokumentation von Erhaltungsmaßnahmen. Durch partizipative Methoden, Fallbeispiele aus der Community und gemeinsame Reflexionsphasen werden Lerninhalte kollaborativ erarbeitet und auf eigene sammlungsbezogene Kontexte übertragen. Das Modul wird aktiv moderiert und gemeinsam gestaltet; Teilnehmende sind eingeladen, Erfahrungen und Fragestellungen einzubringen. 
+
+Perspektivisch wird die OER um didaktische Methoden für Online-Workshops sowie um eine Selbstlerneinheit erweitert.
 
 ---
 
@@ -46,25 +49,25 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 
 Lernende können... 
 
-1\.1 Begriff „Forschungsdaten“ erläutern. (LZM-ID: 01\_001\_0007) 
+1\.1 Begriff „Forschungsdaten“ erläutern. (LZM-ID 01\_001\_0007) 
 
-1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID 01\_xxxx\_soda0001)
+1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID SODa_01\_001_0008a)
 
-1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0001)
+1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID 01\_001\_0001)
 
-1\.4 Allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen. (LZ-ID 01\_002\_0022a)
+1\.4 Allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa_01\_002\_0022a)
 
-1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
+1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID 01\_003\_0038)
 
-1\.6 eigene Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0034a)
+1\.6 eigene Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZM-ID SODa_01\_003\_0034a)
 
-1\.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZM-ID: 01\_005\_0079a)
+1\.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZM-ID SODa_01\_005\_0079a)
 
-1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
+1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID 01\_005\_0082)
 
-1\.9 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
+1\.9 Beratungsbedarfe analysieren. (LZM-ID 06\_004\_1153)
 
-1\.10 eigene Rolle im Forschungsdatenmanagement (FDM) diskutieren. (LZM-ID: 01\_003\_0037)
+1\.10 eigene Rolle im Forschungsdatenmanagement (FDM) diskutieren. (LZM-ID 01\_003\_0037)
 
 ---
 
@@ -100,24 +103,24 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 
 ### Beispiel Forum Wissen 
 
- Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen [4]
+Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen [4]
 
 !?[Der Wal zieht um](https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=63)
 
 ---
 
-## 1.3 Relevanz von Forschungsdatenmanagement (SODa Basiskurs)
+## 1.3 Relevanz von Forschungsdatenmanagement 
+
+> **Hinweis:** Im folgenden übernommen aus *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1. Seite 13. [5]
 
 Forschungsdatenmanagement (FDM)...
 
 * trägt zur Qualitätssicherung und Nachvollziehbarkeit von Forschung bei
 * schützt vor Datenverlust und unklaren Eigentumsverhältnissen
 * erfüllt Anforderungen von Projektförderern
-* schafft Verlässlichkeit bei Projektwechseln und Personalfluktuation [5]
+* schafft Verlässlichkeit bei Projektwechseln und Personalfluktuation [6].
 
 Zudem sichert FDM den Zugang zu Sammlungs- und Forschungsdaten und damit ihre Nachnutzung und berücksichtigt ethische Aspekte z.B. in Bezug auf Objekte, die aus Unrechtskontexten stammen.
-
-Fußnote: Rebekka Reichert, & Hastik, C. (2025, August 7). SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1. Seite13. Zenodo. https://doi.org/10.5281/zenodo.16761352
 
 ---
 
@@ -160,7 +163,7 @@ Sie wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Er
 
 #### Erhebung: 
 
-**Im folgenden übernommen aus *Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung* [6]
+> **Hinweis:** Im folgenden übernommen aus *Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung* [7]
 
 Am häufigsten genannt wurden dabei folgende Herausforderungen und Problematiken:
 
@@ -175,9 +178,7 @@ In weiten Teilen der Fachpraxis wird FDM nicht als integraler Bestandteil restau
 
 Erschwerend kommen Unsicherheiten bezüglich der Anforderungen und Herangehensweisen hinzu. FDM wird in Teilen der Fachcommunity als “zu technisch” oder “zu abstrakt” wahrgenommen. Es handelt sich um ein Aufgabenfeld, das außerhalb der eigenen Kernkompetenz liegt. Viele Teilnehmende wissen nicht genau, was unter “guten” FDM-Praktiken zu verstehen ist, beispielsweise welche Dateiformate als nachhaltig gelten, wie eine nachvollziehbare Datenstrukturierung auszusehen hat oder welche Maßnahmen zur Qualitätssicherung notwendig wären. Dieser Eindruck wird durch fehlende unterstützende Einstiegsmöglichkeiten und unübersichtliche Software- und Tool-Landschaften noch verstärkt."
 
-![Herausforderungen im FDM](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png)
-
-Fischer, Kristina (2025): [Herausforderungen im FDM], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
+![Herausforderungen im FDM [8]](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png)
 
 ---
 
@@ -281,7 +282,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 ## Quellenangaben 
 
-[1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824 (zuletzt abgerufe am 27.11.2025)
+[1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824 (zuletzt abgerufen am 27.11.2025)
 
 [2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
 
@@ -289,9 +290,14 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 [4] Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen (2018), Universität Göttingen, von https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=64 (zuletzt abgerufen am 27.11.2025)
 
-[5] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
+[5] Reichert, R. & Hastik, C. (2025, August 7). SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1. Zenodo. https://doi.org/10.5281/zenodo.16761352
 
-[6] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17475354
+[6] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
+
+[7] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Seite 17-18. Zenodo. https://doi.org/10.5281/zenodo.17475354
+
+[8] Fischer, K. (2025): [Herausforderungen im FDM], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
+
 
 
 
