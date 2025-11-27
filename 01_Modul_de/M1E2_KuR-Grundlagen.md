@@ -20,7 +20,7 @@ persistent OER link: *ergänzen sobald vorhanden
 rights:  cc-by 4.0
 rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0). Die Inhalte dürfen geteilt, genutzt und bearbeitet werden, auch kommerziell, unter der Angabe der Autor*innen und unter Nennung der Lizenz
 
-SODaformat: SODaWorkshop, SODaTrain-the-Trainer
+SODaformat: SODa Workshop, SODa Train-the-Trainer
 SODagestaltungsprinzip: Forschendes Lernen
 classification: *Zielgruppe
 
@@ -34,7 +34,7 @@ runtime environment: https://liascript.github.io
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
-general:  Kurzbeschreibung BeratungsCamp...ergänzen
+general:  Das SODa BeratungsCamp Modul 1 führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop entwickelt, erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
 keywords: *ergänzen
 
 -->
@@ -259,6 +259,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
