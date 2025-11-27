@@ -7,28 +7,36 @@ author: Schwenk, Gudrun
 orcid: https://orcid.org/0009-0002-3156-8339
 email: g.schwenk@igsd-ev.de
 
-title: SODa BeratungsCamp
-modultitel: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
-modulnummer: 1
-einheitstitel: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
-einheitsnummer: 2
-
-classification: *Zielgruppe
-
 version:  v.1.0.0
 language: de
 
+title: SODa BeratungsCamp
+sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
+sessionnumber: 1
+unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
+unitnumber: 2
+duration: 
+
 persistent OER link: *ergänzen sobald vorhanden
-rights:  cc-by-4.0
-rights description: 
+rights:  cc-by 4.0
+rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0). Die Inhalte dürfen geteilt, genutzt und bearbeitet werden, auch kommerziell, unter der Angabe der Autor*innen und unter Nennung der Lizenz
 
 SODaformat: SODaWorkshop, SODaTrain-the-Trainer
-SODagestaltungsprinzip: 
+SODagestaltungsprinzip: Forschendes Lernen
+classification: *Zielgruppe
+
+mediatype: Text
+technical format: Markdown
+file format: .md | MIME: text/markdown
+software: LiaScript
+runtime environment: https://liascript.github.io
+
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
 general:  Kurzbeschreibung BeratungsCamp...ergänzen
+keywords: *ergänzen
 
 -->
 
@@ -252,6 +260,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
