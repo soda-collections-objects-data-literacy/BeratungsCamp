@@ -21,7 +21,7 @@ Von der Theorie in die Praxis - erläutern und analysieren
 
 Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkompetenzen & Unterstützungsstrukturen/Professionelles Handeln im Forschungsdatenkontext**  
 
-**Dauer:** ~ 45 Min.
+**Dauer:** ~ 60 Min.
 
 
 ---
@@ -32,13 +32,13 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 
 ## Ablauf des Moduls
 
-**Modul 1: 90 Min.**
+**Modul 1: 120 Min.**
 
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 1 | Einführung in wissenschaftliche Datenprozesse | 45 Min. |
-| 2 | KuR Grundlagen | 45 Min. |
+| 1 | Einführung in wissenschaftliche Datenprozesse | 60 Min. |
+| 2 | KuR Grundlagen | 60 Min. |
 
 ---
 
@@ -74,7 +74,7 @@ Lernende können...
 
 ---
 
-## 1.1 Was sind Forschungsdaten? (SODa Basiskurs)
+## 1.1 Was sind Forschungsdaten? 
 
 „Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse“ [1].
 
@@ -83,6 +83,8 @@ Nach Definition von forschungsdaten.info sind also alle Daten Forschungsdaten, d
 Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden“ – all das zählt zu Forschungsdaten [3].
 
 Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten.
+
+---
 
 ## 1.2 Sammlungsspezifische Forschungsdaten
 
@@ -112,8 +114,10 @@ Forschungsdatenmanagement (FDM)...
 * schützt vor Datenverlust und unklaren Eigentumsverhältnissen
 * erfüllt Anforderungen von Projektförderern
 * schafft Verlässlichkeit bei Projektwechseln und Personalfluktuation [5]
-* sichert den Zugang zu Sammlungs- und Forschungsdaten und damit ihre Nachnutzung
-* berücksichtigt ethische Aspekte z.B. in Bezug auf Objekte, die aus Unrechtskontexten stammen
+
+Zudem sichert FDM den Zugang zu Sammlungs- und Forschungsdaten und damit ihre Nachnutzung und berücksichtigt ethische Aspekte z.B. in Bezug auf Objekte, die aus Unrechtskontexten stammen.
+
+Fußnote: Rebekka Reichert, & Hastik, C. (2025, August 7). SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1. Seite13. Zenodo. https://doi.org/10.5281/zenodo.16761352
 
 ---
 
@@ -156,9 +160,9 @@ Sie wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Er
 
 #### Erhebung: 
 
-**siehe Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung [6]
+**Im folgenden übernommen aus *Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung* [6]
 
-"Am häufigsten genannt wurden dabei folgende Herausforderungen und Problematiken:
+Am häufigsten genannt wurden dabei folgende Herausforderungen und Problematiken:
 
 * Langfristige Speicherung und Archivierung (44,6 %; n = 107)
 * Fehlende Zeitressourcen (44,2 %; n = 106)
@@ -169,12 +173,12 @@ Sie wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Er
 
 In weiten Teilen der Fachpraxis wird FDM nicht als integraler Bestandteil restauratorischer Arbeit verstanden, sondern als zusätzliche Aufgabe, die in der Planung häufig nicht ausreichend berücksichtigt wird.
 
-Erschwerend kommen Unsicherheiten bezüglich der Anforderungen und Herangehensweisen hinzu. FDM wird in Teilen der Fachcommunity als “zu technisch” oder “zu abstrakt” wahrgenommen. Es handelt sich um ein Aufgabenfeld, das außerhalb der eigenen Kernkompetenz liegt. Viele Teilnehmende wissen nicht genau, was unter “guten” FDM-Praktiken zu verstehen ist, beispielsweise welche Dateiformate als nachhaltig gelten, wie eine nachvollziehbare Datenstrukturierung auszusehen hat oder welche Maßnahmen zur Qualitätssicherung notwendig wären. Dieser Eindruck wird durch fehlende unterstützende
-Einstiegsmöglichkeiten und unübersichtliche Software- und Tool-Landschaften noch verstärkt."
+Erschwerend kommen Unsicherheiten bezüglich der Anforderungen und Herangehensweisen hinzu. FDM wird in Teilen der Fachcommunity als “zu technisch” oder “zu abstrakt” wahrgenommen. Es handelt sich um ein Aufgabenfeld, das außerhalb der eigenen Kernkompetenz liegt. Viele Teilnehmende wissen nicht genau, was unter “guten” FDM-Praktiken zu verstehen ist, beispielsweise welche Dateiformate als nachhaltig gelten, wie eine nachvollziehbare Datenstrukturierung auszusehen hat oder welche Maßnahmen zur Qualitätssicherung notwendig wären. Dieser Eindruck wird durch fehlende unterstützende Einstiegsmöglichkeiten und unübersichtliche Software- und Tool-Landschaften noch verstärkt."
 
 ![Herausforderungen im FDM](https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png)
 
-Fischer, Kristina (2025): [Inhaltstitel der Abbildung], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
+Fischer, Kristina (2025): [Herausforderungen im FDM], in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
+
 ---
 
 ## 1.5 Wer trägt Verantwortung im FDM?
@@ -275,24 +279,20 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 >Share (optional): 1–2 Stimmen im Plenum für zentrale Beobachtungen
 
 
-## Quellenangaben (es wäre zu klären wie wir damit umgehen wenn wir Inhalte z.B. aus dem Basiskurs 1zu1 nachnutzen)
+## Quellenangaben 
 
->siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025) 
-    in 01E_M1_E11(Begriff Forschungsdaten)
-    in 01E_M1_E13(Relevanz von Forschungsdatenmanagement)
-    
-
-[1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824
+[1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824 (zuletzt abgerufe am 27.11.2025)
 
 [2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
 
-[3] Deutsche Forschungsgemeinschaft (DFG). (2015). Leitlinien zum Umgang mit Forschungsdaten. Abgerufen am 16. Juli 2025, von https://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf
+[3] Deutsche Forschungsgemeinschaft (DFG). (2015). Leitlinien zum Umgang mit Forschungsdaten. Abgerufen am 16. Juli 2025, von https://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf (zuletzt abgerufen am 27.11.2025)
 
-[4] Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen (2018), Universität Göttingen, https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=64
+[4] Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen (2018), Universität Göttingen, von https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=64 (zuletzt abgerufen am 27.11.2025)
 
 [5] Biernacka, K. et al. (2023): Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.10122153, S. 27–28.
 
 [6] Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17475354
+
 
 
 
