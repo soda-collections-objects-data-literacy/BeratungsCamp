@@ -108,6 +108,8 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 >Notiert diese auf Moderationskarten. 
 >
 >Pinnt diese Moderationskarten an das Flipchart.
+>
+>Dauer: ca. 10 Min.
 
 ### Beispiel Forum Wissen 
 
@@ -221,6 +223,8 @@ Verantwortung bedeutet hier nicht „eine Person macht alles“, sondern Rollen 
 >Anschließend wird eine Rolle (z. B. „Doktorand:in in einem Projekt“, „IT-Admin“, „FDM-Beauftragte:r“) und 
 >einen zentraler Verantwortungsbereich (z. B. „Daten dokumentieren“, „Backup betreuen“, „Beratung geben“)
 >auf eine Moderationskarte geschrieben und gemeinsam an einem Flipchart gesammelt.
+>
+>Dauer: 5 Min.
 
 **Fazit:** Verantwortung ist geteilte Verantwortung, und sie verändert sich entlang des Datenlebenszyklus. Jede Rolle und Zuständigkeit hat ihren Platz im Datenlebenszyklus. 
 
@@ -246,6 +250,8 @@ Die Phasen des SODa-Datenlebenszyklus bilden einen Rahmen für konkrete Umsetzun
 >Moderationskarten mit Maßnahmen dem SODa Datenlebenszyklus zuordnen.
 >
 >Was fehlt?
+>
+>Dauer: 10 Min.
 
 ### Zuordnung der Maßnahmen zum SODa-Datenlebenszyklus (Beispiel)
 
@@ -277,7 +283,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 >__Übung: Think-Pair-Share__
 >
->Impulsfrage*
+>Impulsfrage
 >
 >*Wobei benötige ich selbst am meisten Unterstützung im Umgang mit Forschungsdaten?*
 >
@@ -286,12 +292,24 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 >Pair: 3–4 Min. Austausch in Kleingruppen (2–3 Personen)
 >
 >Share (optional): 1–2 Stimmen im Plenum für zentrale Beobachtungen
-
->__Übung: xxx__
-
-
+>
+>Dauer: 15 Min.
 
 
+>__Übung: Forschungsaktivitäten-Profil erstellen__
+>
+>Impulsfrage
+>
+>*Welche [TaDiRAH-Aktivitäten](https://vocabs.dariah.eu/tadirah/en/) [8] beschreiben die eigene Forschungs- und Sammlungsarbeit am besten*
+>
+>Wähle 3-5 TaDiRAH-Konzepte und nutze hierfür den Vokabular-Service: https://vocabs.dariah.eu/tadirah/en/ (Einzelarbeit) 
+>
+>Leitfragen:
+>Welche Tätigkeiten führe ich regelmäßig durch?
+>Wo entstehen dabei Forschungsdaten?
+>Welche Bedarfe und Herausforderungen entstehen mit diesen Daten?
+>
+>Dauer: 10 Min.
 
 ## Quellenangaben 
 
@@ -309,6 +327,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
+[8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
 
 
 
