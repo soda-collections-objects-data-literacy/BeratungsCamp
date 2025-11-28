@@ -63,7 +63,7 @@ Lernende können...
 
 1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID 01\_001\_0001)
 
-1\.4 Allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa_01\_002\_0022a)
+1\.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen (LZ-ID SODa_01\_002\_0022a) und ...aktuelle Erhebungen zum Thema und die Ergbnisse benennen (LZ-ID SODa_01\_002\_0032). (neu)
 
 1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID 01\_003\_0038)
 
@@ -171,7 +171,7 @@ Sie wirken sich jedoch in Sammlungen besonders stark aus, da die langfristige Er
 * Unterschiede im **Fachvokabular** zwischen Restaurierung, Sammlungsverwaltung und Forschung
 * Mangelnde **Verknüpfung** zwischen KuR-Dokumentation und Sammlungsdaten
 
-#### Erhebung: 
+### Erhebung: Status Quo
 
 > **Hinweis:** Im folgenden übernommen aus *Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung* [6]
 
@@ -328,6 +328,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
+
 
 
 
