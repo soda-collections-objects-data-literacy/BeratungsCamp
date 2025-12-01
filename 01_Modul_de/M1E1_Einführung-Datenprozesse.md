@@ -1,17 +1,49 @@
 <!--
-
 author: Canan Hastik  
 author: Gudrun Schwenk
-email:    
-version:  v1
+orcid: https://orcid.org/0000-0003-1729-4642
+orcid: https://orcid.org/0009-0002-3156-8339
+email: c.hastik@igsd-ev.de
+email: g.schwenk@igsd-ev.de
+
+title: SODa BeratungsCamp
+version: v1.0.0
 language: DE
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/soda.css
           https://fonts.googleapis.com/css?family=Noto+Sans
-            
-comment:  Das SODa BeratungsCamp Modul 1 führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop entwickelt, erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
 
+comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
+
+# Zusätzliche Metadaten (nicht Teil des LiaScript-Headers)
+
+sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren  
+sessionnumber: 1  
+unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen  
+unitnumber: 2  
+duration unit: 90 Minuten (PT1H30M)
+
+persistent OER link: *ergänzen sobald vorhanden  
+rights: CC-BY 4.0  
+rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0).  
+rights link: https://creativecommons.org/licenses/by/4.0/  
+citation: *ergänzen
+
+SODaformat: SODa Workshop, SODa Train-the-Trainer  
+SODagestaltungsprinzip: Forschendes Lernen  
+
+classification: *Zielgruppe  
+classification description: basierend auf SODaPersonas-Beschreibungen:  
+Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+
+mediatype: Text (mit referenzierten Multimedia-Inhalten)  
+technical format: Markdown mit LiaScript-Erweiterungen  
+file format: .md | MIME: text/markdown  
+software: LiaScript  
+runtime environment: https://liascript.github.io
+
+keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 -->
 
 # SODa BeratungsCamp 
@@ -329,6 +361,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
+
 
 
 
