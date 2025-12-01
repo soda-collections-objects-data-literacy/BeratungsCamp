@@ -1,48 +1,54 @@
 <!--
-
-author: Hastik, Canan  
+author: Canan Hastik  
+author: Gudrun Schwenk
 orcid: https://orcid.org/0000-0003-1729-4642
-email: c.hastik@igsd-ev.de
-author: Schwenk, Gudrun
 orcid: https://orcid.org/0009-0002-3156-8339
+email: c.hastik@igsd-ev.de
 email: g.schwenk@igsd-ev.de
 
-version:  v.1.0.0
-language: de
-
 title: SODa BeratungsCamp
-sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
-sessionnumber: 1
-unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
-unitnumber: 2
+version: v1.0.0
+language: DE
+
+icon: https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
+link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/soda.css
+link: https://fonts.googleapis.com/css?family=Noto+Sans
+
+comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
+
+---
+
+# Zusätzliche Metadaten (nicht Teil des LiaScript-Headers)
+
+sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren  
+sessionnumber: 1  
+unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen  
+unitnumber: 2  
 duration unit: 90 Minuten (PT1H30M)
 
-persistent OER link: *ergänzen sobald vorhanden
-rights:  cc-by 4.0
-rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0). Die Inhalte dürfen geteilt, genutzt und bearbeitet werden, auch kommerziell, unter der Angabe der Autor*innen und unter Nennung der Lizenz. 
-rights link: https://creativecommons.org/licenses/by/4.0/
-citation: ergänzen
+persistent OER link: *ergänzen sobald vorhanden  
+rights: CC-BY 4.0  
+rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0).  
+rights link: https://creativecommons.org/licenses/by/4.0/  
+citation: *ergänzen
 
-SODaformat: SODa Workshop, SODa Train-the-Trainer
-SODagestaltungsprinzip: Forschendes Lernen
-classification: *Zielgruppe
-classification description: basierend auf SODaPersonas-Beschreibungen: Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+SODaformat: SODa Workshop, SODa Train-the-Trainer  
+SODagestaltungsprinzip: Forschendes Lernen  
 
-mediatype: Text (mit referenzierten Multimedia-Inhalten [das gehört dann in Einheit1])
-technical format: Markdown mit LiaScript-Erweiterungen
-file format: .md | MIME: text/markdown
-software: LiaScript
-runtime environment: https://liascript.github.io (, Webbrowser für Anzeige der referenzierten Inhalte das gehört dann in Einheit1)
+classification: *Zielgruppe  
+classification description: basierend auf SODaPersonas-Beschreibungen:  
+Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-link:     https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/soda.css
-        
-
-general:  Das SODa BeratungsCamp Modul 1 führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop entwickelt, erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
+mediatype: Text (mit referenzierten Multimedia-Inhalten)  
+technical format: Markdown mit LiaScript-Erweiterungen  
+file format: .md | MIME: text/markdown  
+software: LiaScript  
+runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 
 -->
+
 
 # SODa BeratungsCamp 
 
@@ -264,6 +270,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
