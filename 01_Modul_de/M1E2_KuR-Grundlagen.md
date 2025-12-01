@@ -16,6 +16,34 @@ link:     https://raw.githubusercontent.com/soda-collections-objects-data-litera
 
 comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
 
+# Zusätzliche Metadaten (nicht Teil des LiaScript-Headers)
+
+sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren  
+sessionnumber: 1  
+unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen  
+unitnumber: 2  
+duration unit: 90 Minuten (PT1H30M)
+
+persistent OER link: *ergänzen sobald vorhanden  
+rights: CC-BY 4.0  
+rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0).  
+rights link: https://creativecommons.org/licenses/by/4.0/  
+citation: *ergänzen
+
+SODaformat: SODa Workshop, SODa Train-the-Trainer  
+SODagestaltungsprinzip: Forschendes Lernen  
+
+classification: *Zielgruppe  
+classification description: basierend auf SODaPersonas-Beschreibungen:  
+Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+
+mediatype: Text (mit referenzierten Multimedia-Inhalten)  
+technical format: Markdown mit LiaScript-Erweiterungen  
+file format: .md | MIME: text/markdown  
+software: LiaScript  
+runtime environment: https://liascript.github.io
+
+keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 -->
 
 
@@ -239,6 +267,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
