@@ -7,8 +7,9 @@ version:  v1
 language: DE
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
-
+link:     https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/soda.css
+          https://fonts.googleapis.com/css?family=Noto+Sans
+            
 comment:  Das SODa BeratungsCamp Modul 1 führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop entwickelt, erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
 
 -->
@@ -328,6 +329,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
+
 
 
 
