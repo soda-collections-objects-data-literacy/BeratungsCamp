@@ -130,9 +130,9 @@ Die Dokumentation ist ein zentraler Teil dieser Verantwortung und damit der rest
 
 ### Die Bewahrung in wissenschaftlichen Sammlungen: Ein Balanceakt zwischen Substanzerhalt und Nutzbarmachung
 
-In wissenschaftlichen Sammlungen bedeutet Bewahrung einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Vermittlung von Wissen, laboratorische Untersuchungen, Forschung und Lehre. [2]
+In wissenschaftlichen Sammlungen bedeutet Bewahrung einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Vermittlung von Wissen, laboratorische Untersuchungen, Forschung und Lehre. [3]
 
-Dieser Balanceakt erfordert die kontinuierliche Erzeugung, Sammlung und den Austausch von Informationen über Institutionen und Fachdisziplinen hinweg. 
+Dieser Balanceakt zwischen Substanzerhalt und Nutzbarmachung erfordert die kontinuierliche Erzeugung, Sammlung und den Austausch von Informationen über Institutionen und Fachdisziplinen hinweg. 
 
 Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professionell zu steuern.
 
@@ -151,8 +151,13 @@ Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professio
 >__Übung: Zuruf__
 >
 >Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?
+>* Ausführung strategischer Planungen und diagnostischer Untersuchungen
+>* Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
+>* präventive Konservierung
+>* Konservierung-Restaurierung
+>* Beobachtung jeglicher Eingriffe
 
-### Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Restaurator\*innen: [1]
+### In den Berufsrichtlinien der E.C.C.O. wird Dokumentation als eigenständiger Verantwortungsbereich von Restaurator\*innen definiert: [1]
 
 * Ausführung von strategischer Planungen und diagnostischer Untersuchungen
 * Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
@@ -189,7 +194,7 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 
 ## 2.5 Der Prozess der Konservierung-Restaurierung
 
-### Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [3]
+### Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen: [2]
 
 * Konservierung-Restaurierung (erfordert die)
 * Phase 1: Untersuchung und Diagnose (führt zu)
@@ -210,7 +215,7 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 
 **Fazit:** Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.
 
-**Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Restaurator\*innen.**
+**Forschungsdatenmanagement (FDM) ist eine Kernkompetenz von Restaurator\*innen.**
 
 ---
 
@@ -229,7 +234,7 @@ Die Aufzeichnungen bleiben das geistige Eigentum des Restaurators und sollen fü
 >
 >Pinnt die Definitionselemente unter den passenden Begriff: Diagnostische Untersuchung, präventive Konservierung, Konservierung und Restaurierung
 
-**Fazit:** Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden. Im Grunde ist 
+**Fazit:** Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden. 
 
 ---
 
@@ -270,6 +275,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
