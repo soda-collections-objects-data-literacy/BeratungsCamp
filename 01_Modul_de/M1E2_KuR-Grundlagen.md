@@ -103,7 +103,7 @@ Lernende können...
   
 ---
 
-## 2.1 Grundsatzpapiere für den Beruf der Konservator\*in-Restaurator\*in mit Relevanz für Forschungsdatenmanagement (FDM)
+## 2.1 Grundsatzpapiere für den Beruf des Konservator-Restaurators mit Relevanz für Forschungsdatenmanagement (FDM)
 
 Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Restaurator\*innen finden sich auf der Homepage des *Verbandes für Restaurator:innen* unter dem Reiter "Karriere".
 Abrufbar unter: https://www.restauratoren.de/beruf/grundsatzpapiere/ (Stand: 26.11.2025)
@@ -160,7 +160,7 @@ Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professio
 * **Dokumentation**
 * Beobachtung
 
-Bedeutung der Dokumentation
+### Bedeutung der Dokumentation
 
 * Dokumentation liefert die Grundlage für konservatorische Entscheidungen
 * Dokumentation sichert Erfahrungswissen aus der restauratorischen Praxis
@@ -267,6 +267,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
