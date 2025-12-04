@@ -42,6 +42,20 @@ Das bedeutet: Sie dürfen die Daten frei nutzen, teilen und weiterverarbeiten, s
 
 ---
 
+## Technische Hinweise
+
+mediatype: Text (mit referenzierten Multimedia-Inhalten)  
+
+technical format: Markdown mit LiaScript-Erweiterungen  
+
+file format: .md | MIME: text/markdown  
+
+software: LiaScript  
+
+runtime environment: https://liascript.github.io
+
+---
+
 ## Lizenz
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
