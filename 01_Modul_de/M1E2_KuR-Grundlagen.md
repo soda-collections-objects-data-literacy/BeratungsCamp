@@ -152,6 +152,7 @@ Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professio
 >__Übung: Zuruf__
 >
 >Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?
+>
 >* Ausführung strategischer Planungen und diagnostischer Untersuchungen
 >* Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
 >* präventive Konservierung
@@ -295,6 +296,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
