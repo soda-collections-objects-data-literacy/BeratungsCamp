@@ -112,7 +112,7 @@ Dieser Einheit liegen insbesondere Inhalte folgender Dokumente der Europäischen
 * E.C.C.O. Berufsrichtlinien (I), 2002/2004 [1]
 * Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators, 2013 [2]
 
-Die Grunlagentexte zum Berufsbild und zu den Kompetenzanforderungen von Restaurator\*innen stellen Forschungsdatenmanagement (FDM) nicht ausdrücklich als eigenständigen Bereich der Restaurierungspraxis heraus. Aus den beschriebenen Anforderungen - insbesondere im Kontext der Dokumentation - wird jedoch deutlich, dass FDM im Hinblick auf die Herausforderungen der Digitalisierung heute zu den zentralen Kompetenzen von Restaurator\*innen zählt.
+Die Grundlagentexte zum Berufsbild und zu den Kompetenzanforderungen von Restaurator\*innen stellen Forschungsdatenmanagement (FDM) nicht ausdrücklich als eigenständigen Bereich der Restaurierungspraxis heraus. Aus den beschriebenen Anforderungen - insbesondere im Kontext der Dokumentation - wird jedoch deutlich, dass FDM im Hinblick auf die Herausforderungen der Digitalisierung heute zu den zentralen Kompetenzen von Restaurator\*innen zählt.
 
 ---
 
@@ -270,6 +270,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
