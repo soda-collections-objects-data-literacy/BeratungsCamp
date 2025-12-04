@@ -90,7 +90,7 @@ Das 120-minütige Modul umfasst zwei Einheiten: (1) Einführung in die Grundlage
 
 Lernende können... 
 
-1\.1 Begriff „Forschungsdaten“ erläutern. (LZM-ID 01\_001\_0007) 
+1\.1 Begriff „Forschungsdaten“ erläutern. (LZ-ID 01\_001\_0007) 
 
 1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID SODa_01\_001_0008a)
 
@@ -98,17 +98,17 @@ Lernende können...
 
 1\.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen (LZ-ID SODa_01\_002\_0022a) und ...aktuelle Erhebungen zum Thema und die Ergbnisse benennen (LZ-ID SODa_01\_002\_0032). (neu)
 
-1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID 01\_003\_0038)
+1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 01\_003\_0038)
 
-1\.6 eigene Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZM-ID SODa_01\_003\_0034a)
+1\.6 eigene Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa_01\_003\_0034a)
 
-1\.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZM-ID SODa_01\_005\_0079a)
+1\.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZ-ID SODa_01\_005\_0079a)
 
-1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID 01\_005\_0082)
+1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01\_005\_0082)
 
-1\.9 Beratungsbedarfe analysieren. (LZM-ID 06\_004\_1153)
+1\.9 Beratungsbedarfe analysieren. (LZ-ID 06\_004\_1153)
 
-1\.10 eigene Rolle im Forschungsdatenmanagement (FDM) diskutieren. (LZM-ID 01\_003\_0037)
+1\.10 eigene Rolle im Forschungsdatenmanagement (FDM) diskutieren. (LZ-ID 01\_003\_0037)
 
 ---
 
@@ -361,6 +361,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
+
 
 
 
