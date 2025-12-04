@@ -157,6 +157,12 @@ Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professio
 >* präventive Konservierung
 >* Konservierung-Restaurierung
 >* Beobachtung jeglicher Eingriffe
+>
+>  Dauer: 5 Min.
+
+### Fazit
+
+Alle Verantwortungsbereiche von Restaurator\*innen erfordern eine präzise Dokumentation!
 
 ### In den Berufsrichtlinien der E.C.C.O. wird Dokumentation als eigenständiger Verantwortungsbereich von Restaurator\*innen definiert: [1]
 
@@ -213,8 +219,12 @@ erfordert folgende Phasen: [2]
 >__Übung: Zuruf__
 >
 >Welche Phasen des Prozesses der Konservierung-Restaurierung erfordern eine präzise Dokumentation?
+>
+>Dauer: 5 Min.
 
-**Fazit:** Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.
+### Fazit
+
+Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten! Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.
 
 **Forschungsdatenmanagement (FDM) ist eine Kernkompetenz von Restaurator\*innen.**
 
@@ -234,8 +244,12 @@ erfordert folgende Phasen: [2]
 >Nehmt Euch ein Maßnahmenpäckchen. Auf jedem Kärtchen ist ein Definitionselement notiert.
 >
 >Pinnt die Definitionselemente unter den passenden Begriff: Diagnostische Untersuchung, präventive Konservierung, Konservierung und Restaurierung
+>
+>Dauer: 15 Min.
 
-**Fazit:** Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten. Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden. 
+### Fazit
+
+Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Daten! Diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden. 
 
 ---
 
@@ -252,6 +266,8 @@ erfordert folgende Phasen: [2]
 >
 >Ordnet die Maßnahmen aus Eurer eignen Sammlung diesen vier Maßnahmenarten zu und notiert jede Maßnahme auf eine Moderationskarte in der entsprechenden Farbe.
 >Anschließend pinnt ihr die Moderationskarten unter den jeweiligen Oberbegriff an der Flipchart.
+>
+>Dauer: 15 Min.
 
 ---
 
@@ -279,6 +295,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
