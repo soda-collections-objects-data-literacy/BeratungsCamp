@@ -232,7 +232,7 @@ Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Date
 
 ## 2.7 Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation)
 
-### Kern der Dokumentation: Die diagnostische Untersuchung und die Konservierungs- und Restaurierungsmaßnahmen
+**Kern der Dokumentation: Die diagnostische Untersuchung und die Konservierungs- und Restaurierungsmaßnahmen**
 
 * Diagnostische Untersuchung
 * präventive Konservierung
@@ -295,6 +295,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
