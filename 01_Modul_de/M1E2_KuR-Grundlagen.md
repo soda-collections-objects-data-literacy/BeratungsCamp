@@ -65,7 +65,7 @@ Einheit 2: **Einführung in die Grundlagen der Dokumentation von Konservierungs-
 
 Lernende können...
 
-2\.1 Grundsatzpapiere für den Beruf des Konservator-Restaurators mit Relevanz für Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa\_01_011_0001)
+2\.1 Grundsatzpapiere für den Beruf des Konservator-Restaurators mit Relevanz für Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa\_01\_011\_0001)
 
 2\.2 Funktionen und Verantwortlichkeiten von Restaurator\*innen erläutern. (LZ-ID SODa\_01\_003\_0033a)
 
@@ -151,7 +151,7 @@ Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professio
 >
 >Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?
 
-Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Restaurator\*innen: [1]
+### Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Restaurator\*innen: [1]
 
 * Ausführung von strategischer Planungen und diagnostischer Untersuchungen
 * Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
@@ -267,6 +267,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
