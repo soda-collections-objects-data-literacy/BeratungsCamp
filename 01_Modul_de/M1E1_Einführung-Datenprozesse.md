@@ -92,8 +92,8 @@ Einheit 1: **Einführung in die Grundlagen des sammlungsbezogenen Forschungsdate
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 1 | Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen| 60 Min. |
-| 2 | Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen | 60 Min. |
+| 1 | Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen| 70 Min. |
+| 2 | Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen | 50 Min. |
 
 
 Das SODa BeratungsCamp unterstützt die Kompetenzentwicklung im Forschungsdatenmanagement (FDM) mit Fokus auf strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation.
@@ -377,6 +377,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
+
 
 
 
