@@ -20,7 +20,17 @@ comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konse
 
 ## Beschreibung
 
-*ergänzen*
+Das didaktische Konzept des SODa BeratungsCamps wurde entwickelt, um grundlegende und fach­spezifische Datenkompetenzen im Bereich des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie der Dokumentation von Konservierungs- und Restaurierungsprozessen systematisch und praxisnah zu fördern. Das Modul basiert auf dem Gestaltungsprinzip des Forschenden Lernens und kombiniert Wissensinput, kollaborative Analysephasen, erfahrungsbasiertes Arbeiten mit strukturierten Daten und angeleitete Reflexionsschritte in einer für Workshops typischen, moderierten und verdichteten Form.
+
+Die Lernarchitektur folgt dem Ein- und Ausatem-Prinzip nach Klaus Döring: Wissensimpulse („einatmen“) werden mit kooperativen und handlungsorientierten Aktivitäten („ausatmen“) verzahnt. Dadurch entsteht ein kontinuierlicher Wechsel zwischen theoretischer Erarbeitung, dialogischer Auseinandersetzung und Anwendung in authentischen Kontexten wissenschaftlicher Sammlungen.
+
+Modul 1 umfasst zwei Einheiten mit einem Gesamtumfang von 120 Minuten. In Einheit 1 werden grundlegende Konzepte des Forschungsdatenmanagements eingeführt, sammlungsspezifische Datenarten identifiziert, Rollen und Verantwortlichkeiten geklärt und Maßnahmen entlang des Datenlebenszyklus analysiert. In Einheit 2 liegt der Schwerpunkt auf der fachdisziplinären Dokumentationspraxis der Konservierung und Restaurierung: zentrale Grundsatzpapiere, Funktionen von Restaurator*innen, Prozesslogiken, Dokumentationsanforderungen sowie die Bedeutung kontrollierter Vokabulare und Metadatenstandards werden erarbeitet und praxisnah reflektiert.
+
+Die didaktische Umsetzung nutzt aktivierende Methoden wie Card-Sorting, Zurufphasen, Speed-Dating, Mini-Analysen, Videoimpulse und praxisorientierte Zuordnungsübungen. Die Teilnehmenden analysieren eigene Rollen, Bedarfe und Datenpraktiken und übertragen die Inhalte auf ihre institutionellen Kontexte. 
+
+Das Modul ist als Train-the-Trainer-OER konzipiert und enthält ein ausführliches Drehbuch, das zur eigenständigen Durchführung, Anpassung und Weiterentwicklung in Beratungs- und Schulungssituationen befähigt.
+
+Die Zielgruppen orientieren sich an den SODa Personas (z. B. Sammlungsleitende, Forschende, Restaurator*innen, technisches Personal). Das Modul wurde als Präsenz-Workshop pilotiert und unter einer CC-BY-4.0-Lizenz veröffentlicht. Erweiterungen für Online-Workshops sowie eine Selbstlerneinheit sind vorgesehen.
 
 ---
 
@@ -41,19 +51,24 @@ folgen dem Prinzip des Ein- und Ausatmens nach Klaus Döring [2].
 
 ## Themenbereiche und Themen im Modul 1
 
-**Grundlegende und übergreifende Konzepte des FDM** 
+**Grundlegende und übergreifende Konzepte des FDM, Cluster 1 der Lernzielmatrix zum Forschungsdatenmanagment []** 
 
-* ergänzen
-* ergänzen
-* ergänzen
+* grundlegende Konzepte des Forschungsdatenmanagements (FDM)
+* Relevanz von FDM und Problemstellungen 
+* Verantwortlichkeiten und Rollen im Forschungsdatenmenagement (FDM)
+* Maßnahmen entlang des Datenlebenszyklus
+* Beratungsbedarfe, eigene Rolle und Kompetenzen reflektieren
 
 
 **Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen**
 
-* Grundlegende und übergreifende Konzepte, Cluster 1 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
+Grundlegende und übergreifende Konzepte, Cluster 1 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
+
   * Thema: Fachspezifische Grundsatzpapiere mit Relevanz für Forschungsdatenmanagement (FDM) (neu)
-  * Thema: Personen und Rollen im Forschungsdatenmanagement (FDM) (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen) 
-* Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
+  * Thema: Personen und Rollen im Forschungsdatenmanagement (FDM) (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
+    
+Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
+  
   * Thema: Datendokumentation (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
   * Thema: Metadatenstandard (für Konservierungs- und Restaurierungsmaßnahmen)
   * Thema: Taxonomie (für Konservierungs- und Restaurierungsmaßnahmen)
@@ -64,25 +79,26 @@ folgen dem Prinzip des Ein- und Ausatmens nach Klaus Döring [2].
 
 Lernende können...
 
-1.1 Begriff „Forschungsdaten“ erläutern. (LZ-ID 01_001_0007)
+1\.1 Begriff „Forschungsdaten“ erläutern. (LZ-ID 01\_001\_0007) 
 
-1.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID SODa_01_001_0008a)
+1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID SODa_01\_001_0008a)
 
-1.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID 01_001_0001)
+1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID 01\_001\_0001)
 
-1.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen (LZ-ID SODa_01_002_0022a) und ...aktuelle Erhebungen zum Thema und die Ergbnisse benennen (LZ-ID SODa_01_002_0032). (neu)
+1\.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen (LZ-ID SODa_01\_002\_0022a) und ...aktuelle Erhebungen zum Thema und die Ergbnisse benennen (LZ-ID SODa_01\_002\_0032). (neu)
 
-1.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 01_003_0038)
+1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 01\_003\_0038)
 
-1.6 eigene Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa_01_003_0034a)
+1\.6 eigene Rollen und Zuständigkeiten im Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa_01\_003\_0034a)
 
-1.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZ-ID SODa_01_005_0079a)
+1\.7 Phasen des sammlungsbezogenen Datenlebenszyklus benennen. (LZ-ID SODa_01\_005\_0079a)
 
-1.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01_005_0082)
+1\.8 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01\_005\_0082)
 
-1.9 Beratungsbedarfe analysieren. (LZ-ID 06_004_1153)
+1\.9 Beratungsbedarfe analysieren. (LZ-ID 06\_004\_1153)
 
-1.10 eigene Rolle im Forschungsdatenmanagement (FDM) diskutieren. (LZ-ID 01_003_0037)
+1\.10 eigene Rolle im Forschungsdatenmanagement (FDM) diskutieren. (LZ-ID 01\_003\_0037)
+
 
 ---
 
@@ -90,23 +106,23 @@ Lernende können...
 
 Lernende können...
 
-2.1 Grundsatzpapiere für den Beruf des Konservator-Restaurators mit Relevanz für Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa_01_011_0001)
+2\.1 Grundsatzpapiere für den Beruf des Konservator-Restaurators mit Relevanz für Forschungsdatenmanagement (FDM) benennen. (LZ-ID SODa\_01\_011\_0001)
 
-2.2 Funktionen und Verantwortlichkeiten von Restaurator*innen erläutern. (LZ-ID SODa_01_003_0033a)
+2\.2 Funktionen und Verantwortlichkeiten von Restaurator\*innen erläutern. (LZ-ID SODa\_01\_003\_0033a)
 
-2.3 Die Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen erläutern. (LZ-ID SODa_03_001_0602a)
+2\.3 Die Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen erläutern. (LZ-ID SODa\_03\_001\_0602a)
 
-2.4 Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)Dokumentation benennen. (LZ-ID SODa_03_001_0600a)
+2\.4 Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)Dokumentation benennen. (LZ-ID SODa\_03\_001\_0600a)
 
-2.5 Den Prozess der Konservierung-Restaurierung (als Inhalt einer Datendokumentation) benennen. (LZ-ID SODa_03_01_0600b)
+2\.5 Den Prozess der Konservierung-Restaurierung (als Inhalt einer Datendokumentation) benennen. (LZ-ID SODa\_03\_01\_0600b)
 
-2.6 Den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung beurteilen. (LZM-ID SODa_03_001_1205)
+2\.6 Den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung beurteilen. (LZM-ID SODa\_03\_001\_1205)
 
-2.7 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) erläutern. (LZM-ID SODa_03_001_1206)
+2\.7 Unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) erläutern. (LZM-ID SODa\_03\_001\_1206)
 
-2.8 Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. (LZ-ID SODa_03_001_0613a)
+2\.8 Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. (LZ-ID SODa\_03\_001\_0613a)
 
-2.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa_03_003_0646a) und Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa_03_006_0752a)
+2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_003\_0646a) und ...Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
 
 ---
 
