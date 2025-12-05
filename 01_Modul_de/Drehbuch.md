@@ -77,6 +77,12 @@ orcid: https://orcid.org/0009-0002-3156-8339
 
 email: g.schwenk@igsd-ev.de
 
+title: SODa BeratungsCamp - Drehbuch
+
+version: v1.0.0
+
+language: DE
+
 sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
 
 sessionnumber: 1
@@ -120,6 +126,7 @@ software: LiaScript
 runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
