@@ -36,7 +36,7 @@ Die Zielgruppen orientieren sich an den SODa Personas (z. B. Sammlungsleitende, 
 
 ## Zielgruppe
 
-Dieses Modul richtet sich an SODa Personae, wie Professor\*innen, Sammlungskoordinator\*innen, -leitende und -betreuende und Forschende. [2]
+Dieses Modul richtet sich an SODa Personae, wie Professor\*innen, Sammlungskoordinator\*innen, -leitende und -betreuende und Forschende. [3]
 
 ---
 
