@@ -73,8 +73,7 @@ Bitte nenne bei Verwendung die Quelle wie folgt:
 ---
 
 ## Zitationsempfehlung
-
-Hastik, C. und Schwenk, G. (2025). (v1.0.0). GitHub/Zenodo. 
+Hastik, C., & Schwenk, G. A. (2025). SODaBeratungsCamp: Modul 1 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17832837
 
 ---
 
