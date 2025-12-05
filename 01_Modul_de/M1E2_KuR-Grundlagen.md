@@ -179,7 +179,7 @@ Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professio
 >* Konservierung-Restaurierung
 >* Beobachtung jeglicher Eingriffe
 >
->  Dauer: 5 Min.
+>Dauer: 5 Min.
 
 ### Fazit
 
@@ -241,6 +241,15 @@ erfordert folgende Phasen: [2]
 >
 >Welche Phasen des Prozesses der Konservierung-Restaurierung erfordern eine präzise Dokumentation?
 >
+>* Konservierung-Restaurierung (erfordert die)
+>* Phase 1: Untersuchung und Diagnose (führt zu)
+>* Phase 2: Feststellen des Bedarfs (ermöglicht)
+>* Phase 3: Abwägen von K-R-Maßnahmen (erfordert das)
+>* Phase 4: Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)
+>* Phase 5: K-R Maßnahmen (zum Erreichen von)
+>* Phase 6: Resultaten (gefolgt von)
+>* Phase 7: abschließenden Empfehlungen
+>  
 >Dauer: 5 Min.
 
 ### Fazit
@@ -314,6 +323,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [4] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
 
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
