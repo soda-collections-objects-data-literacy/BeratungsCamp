@@ -1,10 +1,43 @@
-/* --------------------------------------------- */
-/*   Tabelle Schriftgröße 12px + Ausrichtung     */
-/* --------------------------------------------- */
+/* Noto Sans importieren */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600;700&display=swap');
+
+:root {
+  --soda-light: 255,169,51;
+  --soda-dark: 255,169,51;
+  --color-highlight-dark: 255, 169, 51 !important;
+  --color-highlight-menu: 255, 169, 51 !important;
+  --color-highlight: 255, 169, 51 !important;
+  --font-size-base: 20px;   /* Schriftgröße geeignet für Präsentationen */
+  --font-size-base1: 12px;  /* ergänzte Standard-Schriftgröße */
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: var(--font-size-base); /* Schriftgröße anwenden */
+}
+
+head {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: var(--font-size-base1); /* Schriftgröße anwenden */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+a {
+  color: orange;
+}
+
+/* --------------------------------------------------------- */
+/*   TABELLEN: Schriftgröße 12px + Ausrichtung + Dynamik     */
+/* --------------------------------------------------------- */
 
 table {
   font-size: 12px !important;
   border-collapse: collapse;
+  table-layout: auto;             /* dynamische Spaltenbreiten */
+  width: 100%;                    /* nutzt volle Breite */
 }
 
 table th,
@@ -12,11 +45,34 @@ table td {
   font-size: 12px !important;
   padding: 6px 8px;
 
-  /* NEU: Ausrichtung */
-  text-align: left !important;      /* linksbündig */
-  vertical-align: top !important;   /* obenbündig */
+  /* Ausrichtung */
+  text-align: left !important;
+  vertical-align: top !important;
+
+  /* Dynamische Inhalte */
+  white-space: normal !important; /* erlaubter Zeilenumbruch */
+  word-wrap: break-word;          /* bricht lange Wörter */
+  overflow-wrap: anywhere;        /* zusätzliche Umbruchlogik */
+  height: auto !important;        /* dynamische Höhe */
 }
 
 table th {
   font-weight: 600;
+}
+
+/* Sidebar */
+.lia-active { 
+  color: #FFA933 !important; 
+}
+
+/* Buttons */
+.lia-btn {
+  background: transparent !important;
+  padding: 8px 14px !important;
+  cursor: pointer !important;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.06) !important;
+}
+
+.lia-pagination__content { 
+  background: #FFA933!important; 
 }
