@@ -81,11 +81,11 @@ Lernende können...
 
 1\.1 Begriff „Forschungsdaten“ erläutern. (LZ-ID 01\_001\_0007) 
 
-1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID SODa_01\_001_0008a)
+1\.2 Sammlungsspezifische Forschungsdaten und gute Beispiele benennen. (LZ-ID SODa\_01\_001_0008a)
 
 1\.3 Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID 01\_001\_0001)
 
-1\.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen (LZ-ID SODa_01\_002\_0022a) und ...aktuelle Erhebungen zum Thema und die Ergbnisse benennen (LZ-ID SODa_01\_002\_0032). (neu)
+1\.4 allgemeine von KuR-spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) benennen (LZ-ID SODa\_01\_002\_0022a) und ...aktuelle Erhebungen zum Thema und die Ergbnisse benennen (LZ-ID SODa_01\_002\_0032).
 
 1\.5 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 01\_003\_0038)
 
