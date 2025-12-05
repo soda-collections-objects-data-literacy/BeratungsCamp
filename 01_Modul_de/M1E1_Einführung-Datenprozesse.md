@@ -343,6 +343,7 @@ email: c.hastik@igsd-ev.de
 email: g.schwenk@igsd-ev.de
 
 sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
+
 sessionnumber: 1
 
 unittitle: Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen  
@@ -404,6 +405,7 @@ title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
 url: https://vocabs.dariah.eu/tadirah/en/
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
