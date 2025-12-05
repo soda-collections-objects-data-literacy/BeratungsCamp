@@ -2,7 +2,7 @@
 author: Canan Hastik und Gudrun Schwenk
 email: soda@sammlungen.io
 
-title: SODa BeratungsCamp - Drehbuch
+title: SODa BeratungsCamp - Einheit 1
 version: v1.0.0
 language: DE
 
@@ -405,6 +405,7 @@ title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
 url: https://vocabs.dariah.eu/tadirah/en/
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
