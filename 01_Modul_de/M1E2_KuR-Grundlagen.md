@@ -2,7 +2,7 @@
 author: Canan Hastik und Gudrun Schwenk
 email: soda@sammlungen.io
 
-title: SODa BeratungsCamp - Drehbuch
+title: SODa BeratungsCamp - Einheit 2
 version: v1.0.0
 language: DE
 
@@ -306,6 +306,7 @@ software: LiaScript
 runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
