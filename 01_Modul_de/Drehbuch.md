@@ -16,36 +16,48 @@ comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konse
 
 # Zusätzliche Metadaten (nicht Teil des LiaScript-Headers)
 
-author: Canan Hastik 
-author: Gudrun Schwenk
-orcid: https://orcid.org/0000-0003-1729-4642
-orcid: https://orcid.org/0009-0002-3156-8339
+author: Canan Hastik, https://orcid.org/0000-0003-1729-4642 
+
+author: Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
+
 email: c.hastik@igsd-ev.de
+
 email: g.schwenk@igsd-ev.de
 
 sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren  
 sessionnumber: 1  
+
 unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen  
 unitnumber: 2  
+
 duration unit: 90 Minuten (PT1H30M)
 
-persistent OER link: *ergänzen sobald vorhanden  
+persistent OER link: *ergänzen sobald vorhanden 
+
 rights: CC-BY 4.0  
+
 rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0).  
+
 rights link: https://creativecommons.org/licenses/by/4.0/  
+
 citation: *ergänzen
 
-SODaformat: SODa Workshop, SODa Train-the-Trainer  
+SODaformat: SODa Workshop, SODa Train-the-Trainer 
+
 SODagestaltungsprinzip: Forschendes Lernen  
 
 classification: *Zielgruppe  
-classification description: basierend auf SODaPersonas-Beschreibungen:  
-Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+
+classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
 mediatype: Text (mit referenzierten Multimedia-Inhalten)  
+
 technical format: Markdown mit LiaScript-Erweiterungen  
-file format: .md | MIME: text/markdown  
+
+file format: .md | MIME: text/markdown 
+
 software: LiaScript  
+
 runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
@@ -96,6 +108,7 @@ keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurie
 | 2.7 | Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) | LZ-ID SODa\_03\_001\_1206 | Lernende können unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen als Inhalte einer (Daten-)dokumentation erläutern. | Vortrag mit Folien, Maßnahmenpäckchen-Drehen und Wenden | ca. 15 Min. | Arten von Konservierungs- und Restaurierungsmaßnahmen und Dokumentationsbedarf | TN hören zu (einatmen) und interagieren (ausatmen) | WL stellt vor und teilt TN in Gruppen ein. Jede Gruppe erhält einen Stapel neutralfarbiger Moderationskarten mit Definitionselementen. Anschließend ordnet jede Gruppe die einzelnen Definitionselemente den vier Oberbegriffen an der Flipchart &quot;Diagnostische Untersuchung&quot;, &quot;Präventive Konservierung&quot;, &quot;Konservierung&quot; und &quot;Restaurierung&quot; zu und befestigen die Karten als Zuordnung unter den entsprechenden Oberbegriffen auf der Flipchart | Folien. Für jede Gruppe wird ein Maßnahmenpäckchen benötigt, bestehend aus vier verschiedenfarbigen Moderationskarten, die jeweils mit einem Oberbegriff beschriftet sind (&quot;Diagnostische Untersuchung&quot;, &quot;Präventive Konservierung&quot;, &quot;Konservierung&quot;, &quot;Restaurierung&quot;). Zusätzlich wird pro Gruppe ein Flipchart vorbereitet, auf dem diese vier Oberbegriffe am oberen Rand nebeneinander stehen. Außerdem werden neutralfarbige Moderationskarten bereitgestellt, auf denen einzelne Definitionselemente dieser Oberbegriffe aufgeführt sind (Definitionen nach: E.C.C.O. &quot;Berufsrichtlinien I&quot;, Kapitel Definition des Restaurators) |
 | 2.8 | Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen in der eigenen Sammlung (als Inhalte einer Datendokumentation) | LZ-ID SODa\_03\_001\_0613a | Lernende können Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. | Mini-Übung | ca. 15 Min. | TN reflektieren die Konservierungs- und Restaurierungsmaßnahmen der eigenen Sammlung | TN interagieren (ausatmen) | TN schreiben Maßnahmen aus der eigenen Sammlung auf Moderationskarten. Dabei verwenden sie Moderationskarten in den vier Farben, die in Einheit 2.7 den Oberbegriffen zugeordnet wurden. Die TN sortieren auf diese Weise die Maßnahmen ihrer Sammlung entsprechend der unterschiedlichen Arten von Konservierungs- und Restaurierungsmaßnahmen. Anschließend pinnen die TN ihre Moderationskarten unter den passenden Oberbegriff an einer Flipchart aus Einheit 2.7 | Moderationskarten in den vier Farben der Oberbegriffe aus 2.7 |
 | 2.9 | Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2 | LZ-ID SODa\_03\_003\_0646a | Lernende können Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen. | Vortrag mit Folien | ca. 2 Min. | WL verweist auf Minimalmetadatensatz zur Erfassung von konservierungs- und restaurierungsbezogenen Daten | TN hören zu (einatmen) | WL stellt vor | Folien |
+
 
 
 
