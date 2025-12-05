@@ -32,34 +32,37 @@ a:link {
 }
 
 /* --------------------------------------------------------- */
-/*   TABELLEN: Schriftgröße 12px + Ausrichtung + Dynamik     */
+/*   TABELLEN: Schriftgrößen + Ausrichtung + Dynamik         */
 /* --------------------------------------------------------- */
 
 table {
-  font-size: 6px !important;
+  font-size: 6px !important;          /* Basisgröße – wirkt kaum, da th/td überschrieben werden */
   border-collapse: collapse;
-  table-layout: auto;             /* dynamische Spaltenbreiten */
-  width: 100%;                    /* nutzt volle Breite */
-}
-
-table th,
-table td {
-  font-size: 10px !important;
-  padding: 1px 1px;
-
-  /* Ausrichtung */
-  text-align: left !important;
-  vertical-align: top !important;
-
-  /* Dynamische Inhalte */
-  white-space: normal !important; /* erlaubter Zeilenumbruch */
-  word-wrap: break-word;          /* bricht lange Wörter */
-  overflow-wrap: anywhere;        /* zusätzliche Umbruchlogik */
-  height: auto !important;        /* dynamische Höhe */
+  table-layout: auto;
+  width: 100%;
 }
 
 table th {
-  font-weight: 600;
+  font-size: 12px !important;         /* Tabellenkopf: 12px */
+  font-weight: 700 !important;        /* fett */
+  padding: 1px 1px;
+  text-align: left !important;
+  vertical-align: top !important;
+  white-space: normal !important;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  height: auto !important;
+}
+
+table td {
+  font-size: 8px !important;          /* Tabelleninhalt: kleinste Schrift */
+  padding: 1px 1px;
+  text-align: left !important;
+  vertical-align: top !important;
+  white-space: normal !important;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  height: auto !important;
 }
 
 /* Sidebar */
