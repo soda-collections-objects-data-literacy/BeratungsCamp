@@ -63,6 +63,8 @@ comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konse
 | | Minimalmetadatensatz und kontrolliertes Vokabular für Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2 | LZ-ID SODa\_03\_006\_0752a | Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. | Vortrag mit Folien | ca. 1 Min. | WL verweist auf Metadaten-Thesaurus Metadatenvokabular Konservierung/Restaurierung | TN hören zu (einatmen) | WL stellt vor | Folien
 
 
+### Metadaten
+
 <!--
 Metadaten
 
@@ -107,6 +109,7 @@ runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 -->
+
 
 
 
