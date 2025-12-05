@@ -45,13 +45,17 @@ Das bedeutet: Sie dürfen die Daten frei nutzen, teilen und weiterverarbeiten, s
 
 ## Technische Hinweise
 
-mediatype: Text (mit referenzierten Multimedia-Inhalten)  
+mediatype: Text (mit referenzierten Multimedia-Inhalten)
 
-technical format: Markdown mit LiaScript-Erweiterungen  
+additional mediatype: Moving Image, Still Image
 
-file format: .md | MIME: text/markdown  
+technical format: Markdown mit LiaScript-Erweiterungen
 
-software: LiaScript  
+additional technical format: mp4 (YouTube-Video, Streaming), png (eingebettete Grafik)
+
+file format: .md | MIME: text/markdown
+
+software: LiaScript
 
 runtime environment: https://liascript.github.io
 
