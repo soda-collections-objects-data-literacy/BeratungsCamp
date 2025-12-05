@@ -162,34 +162,43 @@ Lernende können...
 
 ### Metadaten
 
-author: Canan Hastik
-orcid: https://orcid.org/0000-0003-1729-4642
-author: Gudrun Schwenk
-orcid: https://orcid.org/0009-0002-3156-8339
+
+author: Canan Hastik, https://orcid.org/0000-0003-1729-4642
+
+author: Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
 
 email: c.hastik@igsd-ev.de
 email: g.schwenk@igsd-ev.de
 
-persistent OER link: *ergänzen sobald vorhanden*
+sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
+sessionnumber: 1
+
+duration unit: 90 Minuten (PT1H30M)
 
 rights: CC-BY 4.0
+
 rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International.
+
 rights link: https://creativecommons.org/licenses/by/4.0/
 
-citation: *ergänzen*
-
 SODaformat: SODa Workshop, SODa Train-the-Trainer
+
 SODagestaltungsprinzip: Forschendes Lernen
 
-classification: Forschende, Sammlungsleitende und -betreuende, Technisches admin Personal, Hilfskräfte, Interessierte  
-classification description: basierend auf SODaPersonas-Beschreibungen:  
-Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+classification: *Zielgruppe*
 
-mediatype: Text
+classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025).
+
+SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+
+mediatype: Text (mit referenzierten Multimedia-Inhalten)
+
 technical format: Markdown mit LiaScript-Erweiterungen
+
 file format: .md | MIME: text/markdown
 
 software: LiaScript
+
 runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
