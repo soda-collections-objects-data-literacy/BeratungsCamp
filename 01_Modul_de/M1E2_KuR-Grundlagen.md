@@ -81,7 +81,7 @@ Lernende können...
 
 2\.8 Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. (LZ-ID SODa\_03\_001\_0613a)
 
-2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_003\_0646a)
+2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_003\_0646a) und Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_006\_0752a)
 
 ---
 
@@ -272,13 +272,13 @@ Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Date
 
 ---
 
-## 2.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2
+## 2.9 Minimalmetadatensatz und kontrolliertes Vokabular Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2
 
 Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* [4] erarbeitet 2025 einen Minimalmetadatensatz zur **Erfassung von konservierungs- und restaurierungsbezogenen Daten**, um diese Daten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung u. a. für die Sammlungspraxis, Forschung und Lehre sicherzustellen. [5]
 
-Der Minimalmetadatensatz kann auf einer Mock-up Page getestet und evaluiert werden: https://conservationdata.github.io/docu/#/
+Der Minimalmetadatensatz kann auf einer Mock-up Page getestet und evaluiert werden: https://conservationdata.github.io/docu/#/ (Stand: 05.12.2025)
 
-Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendung finden sich in einem verlinkten Metadaten-Thesaurus: https://conservationdata.github.io/terms/
+Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendung finden sich in einem verlinkten Metadaten-Thesaurus: https://conservationdata.github.io/terms/ (Stand: 05.12.2025)
 
 ---
 
@@ -296,6 +296,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
 
 Vinken, G. (2017). Das Digitale und die Denkmalpflege: Einführung in eine komplexe Beziehung. In B. Franz & G. Vinken (Hrsg.), *Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte* (S. 12-19). arthistoricum.net. https://doi.org/10.11588/arthistoricum.263.348
+
 
 
 
