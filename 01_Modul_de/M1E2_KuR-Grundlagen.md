@@ -73,7 +73,7 @@ Lernende können...
 
 2\.4 Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)Dokumentation benennen. (LZ-ID SODa\_03\_001\_0600a)
 
-2\.5 Den Prozess der Konservierung-Restaurierung (als Inhalt einer (Daten-)dokumentation) benennen. (LZ-ID SODa\_03\_01\_0600b)
+2\.5 Den Prozess der Konservierung-Restaurierung (als Inhalt einer Datendokumentation) benennen. (LZ-ID SODa\_03\_01\_0600b)
 
 2\.6 Den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung beurteilen. (LZM-ID SODa\_03\_001\_1205)
 
@@ -294,6 +294,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [4] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
 
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
