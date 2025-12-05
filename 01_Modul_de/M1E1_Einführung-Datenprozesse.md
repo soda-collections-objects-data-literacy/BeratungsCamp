@@ -334,7 +334,6 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 ### Metadaten
 
-<!--
 author: Canan Hastik  
 author: Gudrun Schwenk
 orcid: https://orcid.org/0000-0003-1729-4642
@@ -396,7 +395,8 @@ title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
 url: https://vocabs.dariah.eu/tadirah/en/
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
--->
+
+
 
 
 
