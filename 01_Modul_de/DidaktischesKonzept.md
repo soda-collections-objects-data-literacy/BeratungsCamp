@@ -122,7 +122,7 @@ Lernende können...
 
 ---
 
-## Einheiten und Zeitbedraf im Modul 1
+## Einheiten und Zeitbedarf im Modul 1
 
 **Modul 1: 120 Min.**
 
