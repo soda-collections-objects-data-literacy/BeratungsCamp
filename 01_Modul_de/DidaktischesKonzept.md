@@ -50,9 +50,13 @@ folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
 
 **Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen**
 
-* ergänzen
-* ergänzen
-* ergänzen
+* Grundlegende und übergreifende Konzepte, Cluster 1 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
+  * Thema: Fachspezifische Grundsatzpapiere mit Relevanz für Forschungsdatenmanagement (FDM) (neu)
+  * Thema: Personen und Rollen im Forschungsdatenmanagement (FDM) (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen) 
+* Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
+  * Thema: Datendokumentation (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
+  * Thema: Metadatenstandard (für Konservierungs- und Restaurierungsmaßnahmen)
+  * Thema: Taxonomie (für Konservierungs- und Restaurierungsmaßnahmen)
 
 ---
 
