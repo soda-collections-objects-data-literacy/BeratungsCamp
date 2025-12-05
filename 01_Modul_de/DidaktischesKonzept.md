@@ -158,27 +158,9 @@ Lernende können...
 
 [3] Reichert, R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-Metadaten
+### Metadaten
 
 author: Canan Hastik
 orcid: https://orcid.org/0000-0003-1729-4642
@@ -211,6 +193,6 @@ software: LiaScript
 runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
--->
+
 
 
