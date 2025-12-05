@@ -270,6 +270,7 @@ email: c.hastik@igsd-ev.de
 email: g.schwenk@igsd-ev.de
 
 sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
+
 sessionnumber: 1
 
 unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
@@ -305,6 +306,7 @@ software: LiaScript
 runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
