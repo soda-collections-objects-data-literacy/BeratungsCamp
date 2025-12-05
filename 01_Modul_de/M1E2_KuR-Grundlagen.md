@@ -272,7 +272,7 @@ author: Gudrun Schwenk
 
 orcid: https://orcid.org/0009-0002-3156-8339
 
-email: c.hastik@igsd-ev.de
+email: g.schwenk@igsd-ev.de
 
 sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
 
@@ -345,6 +345,7 @@ type: Website
 title: Restaurierungs- und Konservierungsdaten: Metadatenvokabular Konservierung/Restaurierung
 
 url: https://conservationdata.github.io/terms/
+
 
 
 
