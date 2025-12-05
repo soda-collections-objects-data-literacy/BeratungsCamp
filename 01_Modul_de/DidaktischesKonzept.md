@@ -114,13 +114,7 @@ Lernende können...
 
 **Einheit 2**
 
-* Funktionen und Verantwortlichkeiten von Personen im Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0033)
-* Begriff der Datendokumentation erläutern. (LZM-ID: 03\_001\_0599)
-* Inhalte einer Datendokumentation benennen. (LZM-ID: 03\_001\_0600)
-* Relevanz einer Datendokumentation benennen. (LZM-ID: 03\_001\_0601)
-* Relevanz einer Datendokumentation erläutern. (LZM-ID: 03\_001\_0602)
-* Eigene Datendokumentation analysieren. (LZM-ID: 03\_001\_0613)
-* Unterschiede zwischen Daten, Informationen und Wissen erläutern. (LZM-ID: 02\_001\_0207)
+*keine*
 
 ---
 
