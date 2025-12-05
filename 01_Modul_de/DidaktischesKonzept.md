@@ -35,7 +35,7 @@ Dieses Modul richtet sich an SODa Personae, wie Professor*innen, Sammlungskoordi
 Forschendes Lernen fördert Kompetenzen, die in dynamischen und komplexen Arbeitsumgebungen zunehmend erforderlich sind, verbindet theoretisches Wissen mit praxisorientiertem Handeln und unterstützt die Entwicklung von Fähigkeiten, die direkt in der Arbeitswelt anwendbar sind. Forschendes Lernen integriert selbstgesteuertes, problemorientiertes und kooperatives Lernen.
 
 Die Einheiten aus Lehr-In- und Lern-Output
-folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
+folgen dem Prinzip des Ein- und Ausatmens nach Klaus Döring [2].
 
 ---
 
