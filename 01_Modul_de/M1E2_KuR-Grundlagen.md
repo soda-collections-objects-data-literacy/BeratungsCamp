@@ -16,32 +16,52 @@ link:     https://raw.githubusercontent.com/soda-collections-objects-data-litera
 
 comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
 
-# Zusätzliche Metadaten (nicht Teil des LiaScript-Headers)
+Zusätzliche Metadaten (nicht Teil des LiaScript-Headers)
 
 sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren  
 sessionnumber: 1  
 unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen  
 unitnumber: 2  
-duration unit: 90 Minuten (PT1H30M)
+duration unit: 50 Minuten (PT0H50M)
 
 persistent OER link: *ergänzen sobald vorhanden  
 rights: CC-BY 4.0  
 rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0).  
 rights link: https://creativecommons.org/licenses/by/4.0/  
-citation: *ergänzen
+citation: Hastik, C. und Schwenk, G. (2025).(v1.0.0). GitHub/Zenodo.
 
 SODaformat: SODa Workshop, SODa Train-the-Trainer  
 SODagestaltungsprinzip: Forschendes Lernen  
 
-classification: *Zielgruppe  
+classification: Forschende, Sammlungsleitende und -betreuende, Technisches admin Personal, Hilfskräfte, Interessierte  
 classification description: basierend auf SODaPersonas-Beschreibungen:  
 Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-mediatype: Text (mit referenzierten Multimedia-Inhalten)  
+mediatype: Text
 technical format: Markdown mit LiaScript-Erweiterungen  
 file format: .md | MIME: text/markdown  
 software: LiaScript  
 runtime environment: https://liascript.github.io
+
+references:
+type: Website
+title: Grundlagentexte
+url: https://www.restauratoren.de/beruf/grundsatzpapiere/
+type: Document
+title: E.C.C.O. Berufsrichtlinien (I): Der Beruf
+url: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf
+format: application/pdf
+type: Document
+title: Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators
+url: https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
+format: application/pdf
+type: Website
+title: Conservation Documentation: Metadata Mockup (Beta)
+url: https://conservationdata.github.io/docu/#/
+type: Website
+title: Restaurierungs- und Konservierungsdaten: Metadatenvokabular Konservierung/Restaurierung
+url: https://conservationdata.github.io/terms/
+
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 -->
@@ -81,7 +101,7 @@ Lernende können...
 
 2\.8 Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. (LZ-ID SODa\_03\_001\_0613a)
 
-2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_003\_0646a) und Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
+2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_003\_0646a) und ...Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
 
 ---
 
@@ -110,8 +130,8 @@ Abrufbar unter: https://www.restauratoren.de/beruf/grundsatzpapiere/ (Stand: 26.
 
 Dieser Einheit liegen insbesondere Inhalte folgender Dokumente der Europäischen Vereinigung der Restauratorenverbände (E.C.C.O.) zugrunde:
 
-* E.C.C.O. Berufsrichtlinien (I), 2002/2004 [1]
-* Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators, 2013 [2]
+* [E.C.C.O. Berufsrichtlinien (I), 2002/2004](https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf) [1]
+* [Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators, 2013](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf) [2]
 
 Die Grundlagentexte zum Berufsbild und zu den Kompetenzanforderungen von Restaurator\*innen stellen Forschungsdatenmanagement (FDM) nicht ausdrücklich als eigenständigen Bereich der Restaurierungspraxis heraus. Aus den beschriebenen Anforderungen - insbesondere im Kontext der Dokumentation - wird jedoch deutlich, dass FDM im Hinblick auf die Herausforderungen der Digitalisierung heute zu den zentralen Kompetenzen von Restaurator\*innen zählt.
 
@@ -294,6 +314,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [4] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
 
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
