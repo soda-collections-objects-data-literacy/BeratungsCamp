@@ -22,7 +22,7 @@ sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Resta
 sessionnumber: 1  
 unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen  
 unitnumber: 2  
-duration unit: 90 Minuten (PT1H30M)
+duration unit: 70 Minuten (PT1H10M)
 
 persistent OER link: *ergänzen sobald vorhanden  
 rights: CC-BY 4.0  
@@ -40,7 +40,9 @@ Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Pers
 mediatype: Text (mit referenzierten Multimedia-Inhalten)
 additional mediatypes: Moving Image, Still Image
 technical format: Markdown mit LiaScript-Erweiterungen
-additional technical formats: MP4 (YouTube-Video), PNG (eingebettete Grafik)
+additional technical formats: video/mp4 (YouTube-Streaming), image/png (eingebettete Grafik)
+video duration: 1:30 Minuten (PT1M30S)
+
 file format: .md | MIME: text/markdown  
 software: LiaScript  
 runtime environment: https://liascript.github.io
@@ -363,6 +365,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
+
 
 
 
