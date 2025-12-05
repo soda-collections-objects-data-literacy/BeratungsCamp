@@ -262,6 +262,58 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 
 ### Metadaten
 
+author: Canan Hastik, https://orcid.org/0000-0003-1729-4642
+
+author: Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
+
+email: c.hastik@igsd-ev.de
+email: g.schwenk@igsd-ev.de
+
+sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
+sessionnumber: 1
+
+unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
+
+unitnumber: 2  
+
+duration unit: 50 Minuten (PT1H30M)
+
+rights: CC-BY 4.0
+
+rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International.
+
+rights link: https://creativecommons.org/licenses/by/4.0/
+
+SODaformat: SODa Workshop, SODa Train-the-Trainer
+
+SODagestaltungsprinzip: Forschendes Lernen
+
+classification: *Zielgruppe*
+
+classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025).
+
+SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+
+mediatype: Text (mit referenzierten Multimedia-Inhalten)
+
+technical format: Markdown mit LiaScript-Erweiterungen
+
+file format: .md | MIME: text/markdown
+
+software: LiaScript
+
+runtime environment: https://liascript.github.io
+
+keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
+
+
+
+
+
+
+
+
 
 
 
