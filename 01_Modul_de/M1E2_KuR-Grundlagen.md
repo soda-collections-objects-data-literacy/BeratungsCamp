@@ -285,15 +285,16 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 
 ## Quellenangaben
 
-[1] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 26. Novemberg 2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf)
+[1] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 26. November 2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf)
 
-[2] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zumn Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 26.11.2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf)
+[2] E.C.C.O. European Confederation of Conservator-Restorers' Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 26.11.2025 von [https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf](https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf)
 
 [3] Weber, C. (2020). Universitätssammlungen: keine Museen, sondern Infrastrukturen für Forschung und Lehre. In ICOM Deutschland und M. Walz (Hrsg.), *Museum: ausreichend. Die „untere Grenze“ der Museumsdefinition: Tagungsband des Internationalen Bodensee-Symposiums 2018* (Beiträge zur Museologie, Band 9, S. 130–140). https://doi:10.11588/arthistoricum.565.c8979
 
 [4] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
 
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
