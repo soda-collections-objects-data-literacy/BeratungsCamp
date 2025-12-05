@@ -169,7 +169,7 @@ orcid: https://orcid.org/0000-0003-1729-4642
 
 email: c.hastik@igsd-ev.de
 
-author: Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
+author: Gudrun Schwenk
 
 orcid: https://orcid.org/0009-0002-3156-8339
 
