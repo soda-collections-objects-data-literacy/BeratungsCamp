@@ -272,7 +272,7 @@ Jede Phase konservatorischer und restauratorischer Arbeit erzeugt wertvolle Date
 
 ---
 
-## 2.9 Minimalmetadatensatz und kontrolliertes Vokabular Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2
+## 2.9 Minimalmetadatensatz und kontrolliertes Vokabular für Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2
 
 Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* [4] erarbeitet 2025 einen Minimalmetadatensatz zur **Erfassung von konservierungs- und restaurierungsbezogenen Daten**, um diese Daten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung u. a. für die Sammlungspraxis, Forschung und Lehre sicherzustellen. [5]
 
@@ -294,6 +294,7 @@ Die enthaltenen Begriffe, entsprechenden Beschreibungen und Hinweise zur Anwendu
 [4] Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
 
 [5] Fischer, K., & Mempel-Länger, L. (2025, Oktober 16). Aufbau eines Minimaldatensatzes für die Konservierung-Restaurierung. SODa Forum. https://doi.org/10.5281/zenodo.17367214
+
 
 
 
