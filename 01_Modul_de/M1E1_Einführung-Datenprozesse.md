@@ -411,7 +411,7 @@ title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
 
 url: https://vocabs.dariah.eu/tadirah/en/
 
-keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
