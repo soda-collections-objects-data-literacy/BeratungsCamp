@@ -20,8 +20,8 @@ Zusätzliche Metadaten (nicht Teil des LiaScript-Headers)
 
 sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren  
 sessionnumber: 1  
-unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen  
-unitnumber: 2  
+unittitle: Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen  
+unitnumber: 1  
 duration unit: 70 Minuten (PT1H10M)
 
 persistent OER link: *ergänzen sobald vorhanden  
@@ -40,12 +40,24 @@ Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Pers
 mediatype: Text (mit referenzierten Multimedia-Inhalten)
 additional mediatypes: Moving Image, Still Image
 technical format: Markdown mit LiaScript-Erweiterungen
-additional technical formats: video/mp4 (YouTube-Streaming), image/png (eingebettete Grafik)
-video duration: 1:30 Minuten (PT1M30S)
+additional technical formats: mp4 (YouTube-Video), png (eingebettete Grafik)
 
 file format: .md | MIME: text/markdown  
 software: LiaScript  
 runtime environment: https://liascript.github.io
+
+references:
+type: Video
+title: Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen
+url: https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=65
+duration: 1:30 Minuten (PT1M30S)
+type: Image
+title: Herausforderungen_FDM
+url: https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png
+format: image/png
+type: Thesaurus
+title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
+url: https://vocabs.dariah.eu/tadirah/en/
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 -->
@@ -58,7 +70,7 @@ Von der Theorie in die Praxis - erläutern und analysieren
 
 Einheit 1: **Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen**  
 
-**Dauer:** ~ 60 Min.
+**Dauer:** ~ 70 Min.
 
 
 ---
@@ -365,6 +377,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
+
 
 
 
