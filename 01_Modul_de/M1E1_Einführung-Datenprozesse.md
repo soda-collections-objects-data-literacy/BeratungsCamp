@@ -28,17 +28,19 @@ persistent OER link: *ergänzen sobald vorhanden
 rights: CC-BY 4.0  
 rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0).  
 rights link: https://creativecommons.org/licenses/by/4.0/  
-citation: *ergänzen
+citation: Hastik, C. und Schwenk, G. (2025).(v1.0.0). GitHub/Zenodo.
 
 SODaformat: SODa Workshop, SODa Train-the-Trainer  
 SODagestaltungsprinzip: Forschendes Lernen  
 
-classification: *Zielgruppe  
+classification: Forschende, Sammlungsleitende und -betreuende, Technisches admin Personal, Hilfskräfte, Interessierte
 classification description: basierend auf SODaPersonas-Beschreibungen:  
 Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-mediatype: Text (mit referenzierten Multimedia-Inhalten)  
-technical format: Markdown mit LiaScript-Erweiterungen  
+mediatype: Text (mit referenzierten Multimedia-Inhalten)
+additional mediatypes: Moving Image, Still Image
+technical format: Markdown mit LiaScript-Erweiterungen
+additional technical formats: MP4 (YouTube-Video), PNG (eingebettete Grafik)
 file format: .md | MIME: text/markdown  
 software: LiaScript  
 runtime environment: https://liascript.github.io
@@ -361,6 +363,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 [7] Fischer, K. (2025): Herausforderungen im FDM, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
+
 
 
 
