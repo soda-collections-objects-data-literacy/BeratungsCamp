@@ -12,7 +12,7 @@
   --color-highlight-dark: 255, 169, 51 !important;
   --color-highlight-menu: 255, 169, 51 !important;
   --color-highlight: 255, 169, 51 !important;
-  --font-size-base: 18px;   /* Schriftgröße geeignet für Präsentationen */
+  --font-size-base: 16px;   /* Schriftgröße geeignet für Präsentationen */
   --font-size-base1: 12px;  /* ergänzte Standard-Schriftgröße */
 }
 
