@@ -4,7 +4,8 @@ Dieses Repository enthält offene Lehr-/Lerneinheiten zum Arbeiten mit strukturi
 
 ## Mitwirkende
 
-Canan Hastik, https://orcid.org/0000-0003-1729-4642.
+Canan Hastik, https://orcid.org/0000-0003-1729-4642
+
 Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
 
 ---
