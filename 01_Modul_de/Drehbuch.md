@@ -49,32 +49,18 @@ Einheit 1: **Planung und Organisation wissenschaftlicher Datenprozesse/Datenkomp
 
 ---
 
-## Einheit 2
-
 ## Einheit 2: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
 
-| Einheit | Baustein | LZ-ID | Lernziel | Methode | Dauer | Inhalt | Schritt | Regieanweisung | Materialien |
-|--------:|----------|--------|----------|---------|--------|---------|---------|----------------|-------------|
-| 2.1 | Grundsatzpapiere mit Relevanz für FDM | SODa_01_011_0001 | Grundsatzpapiere mit FDM-Bezug benennen | Vortrag | 2 Min | Überblick über relevante Grundsatzpapiere | Zuhören | WL stellt vor | Folien |
-| 2.2 | Rolle und Verantwortung von Restaurator*innen | SODa_01_003_0033a | Funktionen und Verantwortlichkeiten erläutern | Vortrag | 5 Min | Darstellung nach E.C.C.O. Berufsrichtlinien I | Zuhören | WL stellt vor | Folien |
-| 2.3 | Relevanz der (Daten-)Dokumentation | SODa_03_001_0602a | Relevanz der Dokumentation erläutern | Zuruf + Vortrag | 5 Min | hoher Dokumentationsbedarf | Interaktion + Zuhören | TN äußern Einschätzung, WL ergänzt | Folien |
-| 2.4 | Inhalte einer (Daten-)Dokumentation | SODa_03_001_0600a | Inhalte einer Dokumentation benennen | Vortrag | 1 Min | Definition aus E.C.C.O. Richtlinien | Zuhören | WL stellt vor | Folien |
-| 2.5 | Prozess der Konservierung-Restaurierung | SODa_03_001_0600b | Prozessphasen benennen | Vortrag | 1 Min | Vorstellung der Prozessphasen | Zuhören | WL stellt vor | Folien |
-| 2.6 | Dokumentationsbedarf im Prozess | SODa_03_001_1205 | Dokumentationsbedarf beurteilen | Zuruf | 5 Min | Bewertung aller Prozessphasen | Interaktion | TN äußern Einschätzung | Folien |
-| 2.7 | Arten von Maßnahmen | SODa_03_001_1206 | Verschiedene Maßnahmen erläutern | Vortrag + Gruppenarbeit | 15 Min | Überblick über Maßnahmenarten | Zuhören + Interaktion | Gruppen ordnen Karten zu Oberbegriffen | Moderationskarten, Flipchart |
-| 2.8 | Maßnahmen der eigenen Sammlung | SODa_03_001_0613a | Maßnahmen analysieren | Mini-Übung | 15 Min | Reflexion eigener Maßnahmen | Interaktion | TN schreiben Maßnahmen auf Karten | Moderationskarten (4 Farben) |
-| 2.9 | Metadatenstandards – Ausblick | SODa_03_003_0646a | Metadatenstandards benennen | Vortrag | 2 Min | Verweis auf Minimalmetadatensatz | Zuhören | WL stellt vor | Folien |
-
-
-
-
-
-
-
-
-
-
-
-
+| Einheit | Baustein | LZ-ID | Lernziel | Didaktische Methode (Arbeitsform) | Dauer | Inhalt | Schritt | Regieanweisung | Materialien (Werkzeuge) |
+|--------:|----------|--------|----------|------------------------------------|--------|---------|---------|----------------|---------------------------|
+| 2.1 | Grunsatzpapiere für den Beruf des Konservator-Restaurators mit Relevanz für das Forschungsdatenmanagement (FDM) | LZ-ID SODa_01_011_0001 | Lernende können Grunsatzapiere für den Beruf des Konservator-Restaurators mit Relevanz für Forschungsdatenmanagement (FDM) benennen. | Vortrag mit Folien | ca. 2 Min. | WL verweist auf Sammlung der Grundsatzpapiere für den Beruf des Konservator-Restaurators auf der Homepage des Verbandes der Restaurator*innen, benennt die für Einheit 2 relevanten Dokumente und deren Relevanz in Bezug auf FDM | TN hören zu (einatmen) | WL stellt vor | Folien |
+| 2.2 | Rolle und Verantwortung von Restaurator*innen | LZ-ID SODa_01_003_0033a | Lernende können Funktionen und Verantwortlichkeiten von Restaurator*innen erläutern. | Vortrag mit Folien | ca. 5 Min. | WL stellt Funktionen und Verantwortlichkeiten nach den E.C.C.O. *Berufsrichtlinien I* vor mit Bezug zu wissenschaftlichen Sammlungen | TN hören zu (einatmen) | WL stellt vor | Folien |
+| 2.3 | Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen | LZ-ID SODa_03_001_0602a | Lernende können die Relevanz der (Daten-)Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen erläutern. | Zuruf und Vortrag mit Folien | ca. 5 Min. | WL veranschaulicht hohen (Daten-)Dokumentationsbedarf bei Konservierungs- und Restaurierungsprozessen | TN interagieren (ausatmen) und hören zu (einatmen) | TN sprechen ihre Einschätzung aus und WL stellt im anschließenden Vortrag die Relevanz vor | Folien |
+| 2.4 | Allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)dokumentation | LZ-ID SODa_03_001_0600a | Lernende können allgemeine Inhalte einer konservierungs- und restaurierungsbezogenen (Daten-)Dokumentation benennen. | Vortrag mit Folien | ca 1. Min. | WL liest Definition von Dokumentation aus den E.C.C.O *Berufsrichtlinien I* vor | TN hören zu (einatmen) | WL stellt vor | Folien |
+| 2.5 | Der Prozess der Konservierung-Restaurierung | LZ-ID SODa_03_001_0600b | Lernende können den Prozess der Konservierung-Restaurierung (als Inhalt einer (Daten-)dokumentation) benennen. | Vortrag mit Folien | ca. 1 Min.| WL stellt Phasen des Prozesses der Konservierung-Restaurierung aus dem E.C.C.O. Grundsatzpapier *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* vor | TN hören zu (einatmen) | WL stellt vor | Folien |
+| 2.6 | Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung | LZ-ID SODa_03_001_1205 | Lernende können den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung beurteilen. | Zuruf | ca. 5 Min. | TN beurteilen den Dokumentationsbedarf aller Phasen der Konservierung-Restaurierung und schließen auf Forschungsdatenmanagement als Kernkompetenz von Restaurator*innen | TN interagieren (ausatmen) | TN sprechen ihre Einschätzung aus | Folien |
+| 2.7 | Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen (als Inhalte einer Datendokumentation) | LZ-ID SODa_03_001_1206 | Lernende können unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen als Inhalte einer (Daten-)dokumentation erläutern. | Vortrag mit Folien, Maßnahmenpäckchen-Drehen und Wenden | ca. 15 Min. | Arten von Konservierungs- und Restaurierungsmaßnahmen und Dokumentationsbedarf | TN hören zu (einatmen) und interagieren (ausatmen) | WL stellt vor und teilt TN in Gruppen ein. Jede Gruppe erhält einen Stapel neutralfarbiger Moderationskarten mit Definitionselementen. Anschließend ordnet jede Gruppe die einzelnen Definitionselemente den vier Oberbegriffen an der Flipchart "Diagnostische Untersuchung", "präventive Konservierung", "Konservierung" und "Restaurierung" zu und befestigen die Karten als Zuordnung unter den entsprechenden Oberbegriffen auf der Flipchart | Folien. Für jede Gruppe wird ein Maßnahmenpäckchen benötigt, bestehend aus vier verschiedenfarbigen Moderationskarten, die jeweils mit einem Oberbegriff beschriftet sind ("Diagnostische Untersuchung", "Präventive Konservierung", "Konservierung", "Restaurierung"). Zusätzlich wird pro Gruppe ein Flipchart vorbereitet, auf dem diese vier Oberbegriffe am oberen Rand nebeneinander stehen. Außerdem werden neutralfarbige Moderationskarten bereitgestellt, auf denen einzelne Definitionselemente dieser Oberbegriffe aufgeführt sind (Definitionen nach: *E.C.C.O. Berufsrichtlinien (I)*, Kapitel Definition des Restaurators) |
+| 2.8 | Unterschiedliche Arten der Konservierungs- und Restaurierungsmaßnahmen in der eigenen Sammlung (als Inhalte einer Datendokumentation) | LZ-ID SODa_03_001_0613a | Lernende können Datendokumentation der eigenen Sammlung in Hinblick auf unterschiedliche Arten von Konservierungs- und Restaurierungsmaßnahmen analysieren. | Mini-Übung | ca. 15 Min. | TN reflektieren die Konservierungs- und Restaurierungsmaßnahmen der eigenen Sammlung | TN interagieren (ausatmen) | TN schreiben Maßnahmen aus der eigenen Sammlung auf Moderationskarten. Dabei verwenden sie Moderationskarten in den vier Farben, die in Einheit 2.7 den Oberbegriffen zugeordnet wurden. Die TN sortieren auf diese Weise die Maßnahmen ihrer Sammlung entsprechend der unterschiedlichen Arten von Konservierungs- und Restaurierungsmaßnahmen. Anschließend pinnen die TN ihre Moderationskarten unter den passenden Oberbegriff an einer Flipchart aus Einheit 2.7 | Moderationskarten in den vier Farben der Oberbegriffe aus 2.7 |
+| 2.9 | Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen - Ausblick auf Modul 2 | LZ-ID SODa_03_003_0646a | Lernende können Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen. | Vortrag mit Folien | ca. 2 Min. | WL verweist auf Minimalmetadatensatz zur Erfassung von konservierungs- und restaurierungsbezogenen Daten | TN hören zu (einatmen) | WL stellt vor | Folien |
 
 
