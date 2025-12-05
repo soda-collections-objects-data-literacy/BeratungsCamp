@@ -349,7 +349,7 @@ unittitle: Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenm
 
 unitnumber: 1  
 
-duration unit: 90 Minuten (PT1H30M)
+duration unit: 70 Minuten (PT1H30M)
 
 rights: CC-BY 4.0
 
@@ -404,6 +404,7 @@ title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
 url: https://vocabs.dariah.eu/tadirah/en/
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
