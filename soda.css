@@ -7,8 +7,8 @@
   --color-highlight-dark: 255, 169, 51 !important;
   --color-highlight-menu: 255, 169, 51 !important;
   --color-highlight: 255, 169, 51 !important;
-  --font-size-base: 20px; /* Schriftgröße geeignet für Präsentationen*/
-  --font-size-base1: 12px; /* ergänzte Standard-Schriftgröße */
+  --font-size-base: 20px;   /* Schriftgröße geeignet für Präsentationen */
+  --font-size-base1: 12px;  /* ergänzte Standard-Schriftgröße */
 }
 
 body {
@@ -29,8 +29,26 @@ a {
   color: orange;
 }
 
-/* Sidebar */
+/* --------------------------------------------- */
+/*   Tabelle Schriftgröße 12px (NEU EINGEFÜGT)   */
+/* --------------------------------------------- */
 
+table {
+  font-size: 12px !important;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  font-size: 12px !important;
+  padding: 6px 8px;
+}
+
+table th {
+  font-weight: 600;
+}
+
+/* Sidebar */
 .lia-active { 
   color: #FFA933 !important; 
 }
@@ -44,5 +62,5 @@ a {
 }
 
 .lia-pagination__content { 
-  background: #FFA933!important; 
+  background: #FFA933 !important; 
 }
