@@ -11,8 +11,8 @@ link:     https://raw.githubusercontent.com/soda-collections-objects-data-litera
           https://fonts.googleapis.com/css?family=Noto+Sans
 
 comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
-
 -->
+
 
 # SODa BeratungsCamp 
 
@@ -330,7 +330,6 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 [8] Borek, L. et al. (2020). TaDiRAH: Taxonomy of Digital Research Activities in the Humanities (Version 2.0.3), von https://vocabs.dariah.eu/tadirah/en/ (zuletzt abgerufen am 27.11.2025)
 
-
 ---
 
 ### Metadaten
@@ -398,6 +397,7 @@ url: https://vocabs.dariah.eu/tadirah/en/
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
 -->
+
 
 
 
