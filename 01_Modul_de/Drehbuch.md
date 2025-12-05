@@ -65,11 +65,15 @@ comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konse
 
 ### Metadaten
 
-author: Canan Hastik, https://orcid.org/0000-0003-1729-4642
+author: Canan Hastik
+
+orcid: https://orcid.org/0000-0003-1729-4642
+
+email: c.hastik@igsd-ev.de
 
 author: Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
 
-email: c.hastik@igsd-ev.de
+orcid: https://orcid.org/0009-0002-3156-8339
 
 email: g.schwenk@igsd-ev.de
 
@@ -77,7 +81,19 @@ sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Resta
 
 sessionnumber: 1
 
-duration unit: 120 Minuten (PT1H30M)
+duration session: 120 Minuten (PT1H30M)
+
+unittitle: Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen  
+
+unitnumber: 1  
+
+duration unit: 70 Minuten (PT1H10M)
+
+unittitle: Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
+
+unitnumber: 2  
+
+duration unit: 50 Minuten (PT0H50M)
 
 rights: CC-BY 4.0
 
@@ -89,13 +105,11 @@ SODaformat: SODa Workshop, SODa Train-the-Trainer
 
 SODagestaltungsprinzip: Forschendes Lernen
 
-classification: *Zielgruppe*
+classification: Forschende, Sammlungsleitende und -betreuende. Technisches admin Personal, Hilfskräfte, Interessierte
 
-classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025).
+classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
-SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
-
-mediatype: Text (mit referenzierten Multimedia-Inhalten)
+mediatype: Text
 
 technical format: Markdown mit LiaScript-Erweiterungen
 
@@ -106,6 +120,7 @@ software: LiaScript
 runtime environment: https://liascript.github.io
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
