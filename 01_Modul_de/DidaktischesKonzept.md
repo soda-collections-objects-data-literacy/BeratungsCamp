@@ -26,7 +26,7 @@ comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konse
 
 ## Zielgruppe
 
-Dieses Modul richtet sich an SODa Personae, wie Professor*innen, Sammlungskoordinator*innen, -leitende und -betreuende und Forschende.
+Dieses Modul richtet sich an SODa Personae, wie Professor\*innen, Sammlungskoordinator\*innen, -leitende und -betreuende und Forschende.
 
 ---
 
