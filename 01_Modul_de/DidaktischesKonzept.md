@@ -53,7 +53,7 @@ folgen dem Prinzip des Ein- und Ausatmens nach Klaus Döring [2].
 
 **Grundlegende und übergreifende Konzepte des FDM, Cluster 1 der Lernzielmatrix zum Forschungsdatenmanagment []** 
 
-* grundlegende Konzepte des Forschungsdatenmanagements (FDM)
+* Grundlegende Konzepte des Forschungsdatenmanagements (FDM)
 * Relevanz von FDM und Problemstellungen 
 * Verantwortlichkeiten und Rollen im Forschungsdatenmenagement (FDM)
 * Maßnahmen entlang des Datenlebenszyklus
@@ -64,18 +64,17 @@ folgen dem Prinzip des Ein- und Ausatmens nach Klaus Döring [2].
 
 Grundlegende und übergreifende Konzepte, Cluster 1 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
 
-  * Thema: Fachspezifische Grundsatzpapiere mit Relevanz für Forschungsdatenmanagement (FDM) (neu)
-  * Thema: Personen und Rollen im Forschungsdatenmanagement (FDM) (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
+  * Fachspezifische Grundsatzpapiere mit Relevanz für Forschungsdatenmanagement (FDM) (neu)
+  * Personen und Rollen im Forschungsdatenmanagement (FDM) (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
     
 Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen)
   
-  * Thema: Datendokumentation (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
-  * Thema: Metadatenstandard (für Konservierungs- und Restaurierungsmaßnahmen)
-  * Thema: Taxonomie (für Konservierungs- und Restaurierungsmaßnahmen)
+  * Datendokumentation (in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen)
+  * Metadatenstandard (für Konservierungs- und Restaurierungsmaßnahmen)
+  * Taxonomie (für Konservierungs- und Restaurierungsmaßnahmen)
 
 ---
-
-## Lernziele in Einheit 1
+# Lernziele in Einheit 1
 
 Lernende können...
 
