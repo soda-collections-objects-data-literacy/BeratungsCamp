@@ -334,67 +334,77 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck. Bedarfe entstehen aus konk
 
 ### Metadaten
 
-author: Canan Hastik  
-author: Gudrun Schwenk
-orcid: https://orcid.org/0000-0003-1729-4642
-orcid: https://orcid.org/0009-0002-3156-8339
+
+author: Canan Hastik, https://orcid.org/0000-0003-1729-4642
+
+author: Gudrun Schwenk, https://orcid.org/0009-0002-3156-8339
+
 email: c.hastik@igsd-ev.de
 email: g.schwenk@igsd-ev.de
 
-title: SODa BeratungsCamp
-version: v1.0.0
-language: DE
+sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren
+sessionnumber: 1
 
-icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-link:     https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/soda.css
-          https://fonts.googleapis.com/css?family=Noto+Sans
-
-comment: Dieses Modul führt in die Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation ein und wurde als Präsenz-Workshop erprobt und als OER im Train-the-Trainer-Format veröffentlicht.
-
-Zusätzliche Metadaten (nicht Teil des LiaScript-Headers)
-
-sessiontitle: Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation: Von der Theorie in die Praxis - erläutern und analysieren  
-sessionnumber: 1  
 unittitle: Einführung in die Grundlagen des sammlungsbezogenen Forschungsdatenmanagements (FDM) sowie Reflexion eigener Rollen, Bedarfe und Kompetenzen  
+
 unitnumber: 1  
-duration unit: 70 Minuten (PT1H10M)
 
-persistent OER link: *ergänzen sobald vorhanden  
-rights: CC-BY 4.0  
-rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International (CC-BY 4.0).  
-rights link: https://creativecommons.org/licenses/by/4.0/  
-citation: Hastik, C. und Schwenk, G. (2025).(v1.0.0). GitHub/Zenodo.
+duration unit: 90 Minuten (PT1H30M)
 
-SODaformat: SODa Workshop, SODa Train-the-Trainer  
-SODagestaltungsprinzip: Forschendes Lernen  
+rights: CC-BY 4.0
 
-classification: Forschende, Sammlungsleitende und -betreuende, Technisches admin Personal, Hilfskräfte, Interessierte
-classification description: basierend auf SODaPersonas-Beschreibungen:  
-Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
+rights description: Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 International.
+
+rights link: https://creativecommons.org/licenses/by/4.0/
+
+SODaformat: SODa Workshop, SODa Train-the-Trainer
+
+SODagestaltungsprinzip: Forschendes Lernen
+
+classification: *Zielgruppe*
+
+classification description: basierend auf SODaPersonas-Beschreibungen, Reichert R., Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025).
+
+SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
 mediatype: Text (mit referenzierten Multimedia-Inhalten)
-additional mediatypes: Moving Image, Still Image
-technical format: Markdown mit LiaScript-Erweiterungen
-additional technical formats: mp4 (YouTube-Video), png (eingebettete Grafik)
 
-file format: .md | MIME: text/markdown  
-software: LiaScript  
+technical format: Markdown mit LiaScript-Erweiterungen
+
+file format: .md | MIME: text/markdown
+
+software: LiaScript
+
 runtime environment: https://liascript.github.io
 
+keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 references:
+
 type: Video
+
 title: Der Wal zieht um: Attraktion des Zoologischen Museums Göttingen
+
 url: https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=65
+
 duration: 1:30 Minuten (PT1M30S)
+
 type: Image
+
 title: Herausforderungen_FDM
+
 url: https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation/blob/988d9726056eb2faedec632fcc780bd4a0ce716e/visualisation/png/Herausforderungen_FDM.png
+
 format: image/png
+
 type: Thesaurus
+
 title: TaDiRAH – Taxonomy of Digital Research Activities in the Humanities
+
 url: https://vocabs.dariah.eu/tadirah/en/
 
 keywords: sammlungsbezogenes Forschungsdatenmanagement; Konservierung; Restaurierung; Dokumentation
+
 
 
 
