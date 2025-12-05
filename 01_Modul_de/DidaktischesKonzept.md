@@ -28,7 +28,7 @@ Modul 1 umfasst zwei Einheiten mit einem Gesamtumfang von 120 Minuten. In Einhei
 
 Die didaktische Umsetzung nutzt aktivierende Methoden wie Card-Sorting, Zurufphasen, Speed-Dating, Mini-Analysen, Videoimpulse und praxisorientierte Zuordnungsübungen. Die Teilnehmenden analysieren eigene Rollen, Bedarfe und Datenpraktiken und übertragen die Inhalte auf ihre institutionellen Kontexte. 
 
-Das Modul ist als Train-the-Trainer-OER konzipiert und enthält ein ausführliches Drehbuch, das zur eigenständigen Durchführung, Anpassung und Weiterentwicklung in Beratungs- und Schulungssituationen befähigt.
+Das Modul ist als Train-the-Trainer-OER konzipiert und enthält ein ausführliches Drehbuch, das zur eigenständigen Durchführung, Anpassung und Weiterentwicklung in Beratungs- und Schulungssituationen befähigt. Ein besonderer Fokus liegt auf der praktischen Anwendbarkeit der vermittelten Inhalte. Daher wurde strukturiert die Lernzielmatrix zum FDM nachgenutzt [1].
 
 Die Zielgruppen orientieren sich an den SODa Personas (z. B. Sammlungsleitende, Forschende, Restaurator*innen, technisches Personal). Das Modul wurde als Präsenz-Workshop pilotiert und unter einer CC-BY-4.0-Lizenz veröffentlicht. Erweiterungen für Online-Workshops sowie eine Selbstlerneinheit sind vorgesehen.
 
@@ -36,7 +36,7 @@ Die Zielgruppen orientieren sich an den SODa Personas (z. B. Sammlungsleitende, 
 
 ## Zielgruppe
 
-Dieses Modul richtet sich an SODa Personae, wie Professor\*innen, Sammlungskoordinator\*innen, -leitende und -betreuende und Forschende.
+Dieses Modul richtet sich an SODa Personae, wie Professor\*innen, Sammlungskoordinator\*innen, -leitende und -betreuende und Forschende. [2]
 
 ---
 
@@ -45,13 +45,13 @@ Dieses Modul richtet sich an SODa Personae, wie Professor\*innen, Sammlungskoord
 Forschendes Lernen fördert Kompetenzen, die in dynamischen und komplexen Arbeitsumgebungen zunehmend erforderlich sind, verbindet theoretisches Wissen mit praxisorientiertem Handeln und unterstützt die Entwicklung von Fähigkeiten, die direkt in der Arbeitswelt anwendbar sind. Forschendes Lernen integriert selbstgesteuertes, problemorientiertes und kooperatives Lernen.
 
 Die Einheiten aus Lehr-In- und Lern-Output
-folgen dem Prinzip des Ein- und Ausatmens nach Klaus Döring [2].
+folgen dem Prinzip des Ein- und Ausatmens nach Klaus Döring [3].
 
 ---
 
 ## Themenbereiche und Themen im Modul 1
 
-**Grundlegende und übergreifende Konzepte des FDM, Cluster 1 der Lernzielmatrix zum Forschungsdatenmanagment []** 
+**Grundlegende und übergreifende Konzepte des FDM, Cluster 1 der Lernzielmatrix zum Forschungsdatenmanagment [1]** 
 
 * Grundlegende Konzepte des Forschungsdatenmanagements (FDM)
 * Relevanz von FDM und Problemstellungen 
@@ -147,10 +147,15 @@ Lernende können...
 | 2 | Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen | 50 Min. |
 
 
+---
 
+## Quellenangaben
 
+[1] Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
 
+[2] Rebekka Reichert, Hastik, C., Gnyp, A., Markert, M., & Tharandt, L. (2025). SODa Personas. Zenodo. https://doi.org/10.5281/zenodo.15574575
 
+[3] 
 
 
 
