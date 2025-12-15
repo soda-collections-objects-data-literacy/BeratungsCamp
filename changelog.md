@@ -12,4 +12,8 @@ Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservieru
   * Taxonomie (für Konservierungs- und Restaurierungsmaßnahmen)
     
   - Problem: Editor erkennt Markup nicht aufgrund eines Syntaxfehlers
+- Zeile 117:
+2\.5 Den Prozess der Konservierung-Restaurierung (als Inhalt einer Datendokumentation) benennen. (LZ-ID SODa\_03\_01\_0600b)
+  - korrigieren zu: (LZ-ID SODa\_03\_001\_0600b)
+
 
